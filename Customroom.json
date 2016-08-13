@@ -13,7 +13,7 @@
   	"forceSmartVote":	false,
   },
   "images":{
-	"background": "null",
+	"background": null,
   	"playback": null,
 	"admin": null,
 	"ambassador": null,
