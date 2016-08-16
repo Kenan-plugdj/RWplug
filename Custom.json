@@ -1,31 +1,47 @@
 {
-  "room": "Rock Wins",
-    	"author": "Kenan-plugdj",
-   	"css": "null",
-  "rules":{
-  	"allowAutorespond":	true,
-  	"allowAutowoot":	true,
-  	"allowAutojoin":	false,
-  	"allowAutograb":	true,
-  	"allowSmartVote":	true,
-  	"allowEmotes":		true,
-  	"allowShowingMehs":	true,
-  	"forceSmartVote":	false,
-  },
-  "images":{
-	"background": null,
-  	"playback": null,
-	"admin": null,
-	"ambassador": null,
-	"host": null,
-	"cohost": null,
-	"manager": null,
-	"bouncer": null,
-	"rdj": null, 
-	"silversubscriber": null,
-	"subscriber": null,
-  },
-  "emotes": {
+   "room": "Rock Wins",
+   	"author": "Kenan",
+   	"icon": null,
+   	"css": null,
+   "rules": {
+      "allowAutorespond": true,
+      "allowAutowoot": true,
+      "allowAutojoin": false,
+      "allowAutograb": true,
+      "allowSmartVote": true,
+      "allowEmotes": true,
+      "allowShowingMehs": true,
+      "forceSmartVote": false
+   },
+   "ccc": {
+      "admin": null,
+      "ambassador": null,
+      "host": null,
+      "cohost": null,
+      "manager": null,
+      "bouncer": null,
+      "rdj": null,
+      "subscriber": null,
+      "silversubscriber": null,
+      "friend": null,
+      "user": null
+   },
+   "images": {
+      "background": null,
+      "playback": null,
+      "admin": null,
+      "ambassador": null,
+      "host": null,
+      "cohost": null,
+      "manager": null,
+      "bouncer": null,
+      "rdj": null
+      "subscriber": null,
+      "silversubscriber": null
+   },
+   
+   
+   "emotes": {
   	".v.": "https://i.imgur.com/C79uctl.gif",
   	"100%": "https://i.imgur.com/nhz07pH.jpg",
   	"acabou": "https://imgur.com/vfN1hJq.jpg",
@@ -349,7 +365,6 @@
       	"wills3": "https://i.imgur.com/5nIIgVS.jpg",
       	"xablau": "https://i.imgur.com/uEHQSrA.gif",
       	"zoeira": "https://i.imgur.com/zVFnkQU.png",
-      	"zoeiro": "https://i.imgur.com/jBr1NaT.jpg",
- }
+      	"zoeiro": "https://i.imgur.com/jBr1NaT.jpg"
+  }
 }
-
