@@ -240,7 +240,7 @@
         status: false,
         name: "Rock Wins bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot2.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
