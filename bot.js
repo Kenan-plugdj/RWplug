@@ -240,9 +240,9 @@
         status: false,
         name: "Rock Wins bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/kurium/RW/master/bot.js",
-        cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/kurium/RW/master/lang/pt-BR.json",
+        scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
+        cmdLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/commands.md",
+        chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,8 +250,8 @@
         settings: {
             botName: "Rock Wins bot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/kurium/RW/master/lang/pt-BR.json",
-            scriptLink: "https://rawgit.com/kurium/RW/master/bot.js",
+            chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
+            scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 100, // 0-100
