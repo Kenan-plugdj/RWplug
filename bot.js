@@ -238,7 +238,7 @@
     var basicBot = {
         version: "1.0",
         status: false,
-        name: "Rock Wins bot",
+        name: "Rock Wins",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
         cmdLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/commands.md",
@@ -301,7 +301,7 @@
             opLink: null,
             rulesLink: "http://prnt.sc/c152aa",
             themeLink: null,
-            fbLink: "https://www.facebook.com/groups/998619933579146/",
+            fbLink: "https://www.fb.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
             intervalMessages: [],
@@ -379,10 +379,10 @@
                     var ind = Math.floor(Math.random() * basicBot.room.roulette.participants.length);
                     var winner = basicBot.room.roulette.participants[ind];
                     basicBot.room.roulette.participants = [];
-                    var pos = Math.floor((Math.random() * API.getWaitList().length) + 1);
+                    var pos = Math.floor((Math.random() * 1) + 1);
                     var user = basicBot.userUtilities.lookupUser(winner);
                     var name = user.username;
-                    API.sendChat(subChat(basicBot.chat.winnerpicked, {name: name, position: 1}));
+                    API.sendChat(subChat(basicBot.chat.winnerpicked, {name: name, position: pos}));
                     setTimeout(function (winner, pos) {
                         basicBot.userUtilities.moveUser(winner, pos, false);
                     }, 1 * 1000, winner, pos);
