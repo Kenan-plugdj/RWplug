@@ -236,13 +236,13 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "1.0",
+        version: "1",
         status: false,
         name: "Rock Wins bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/kurium/RW/master/bot.js",
+        scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/kurium/RW/master/lang/pt-BR.json",
+        chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,8 +250,8 @@
         settings: {
             botName: "Rock Wins bot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/kurium/RW/master/lang/pt-BR.json",
-            scriptLink: "https://rawgit.com/kurium/RW/master/bot.js",
+            chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
+            scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 100, // 0-100
@@ -263,7 +263,7 @@
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 90,
-            bouncerPlus: false,
+            bouncerPlus: true,
             blacklistEnabled: false,
             lockdownEnabled: false,
             lockGuard: false,
@@ -304,7 +304,7 @@
             fbLink: "https://www.facebook.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
-            intervalMessages: [],
+            intervalMessages: ["Entrem no grupo da sala no Facebook / Join us on Facebook group: https://www.facebook.com/groups/998619933579146","@djs :exclamation:Leiam as regras da sala, na descrição, ou digitando !rulles :exclamation:"],
             messageInterval: 5,
             songstats: false,
             commandLiteral: "!",
