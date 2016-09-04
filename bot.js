@@ -304,8 +304,8 @@
             fbLink: "https://www.facebook.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
-            intervalMessages: ["Entrem no grupo da sala no Facebook / Join us on Facebook group: https://www.facebook.com/groups/998619933579146","@djs :exclamation:Leiam as regras da sala, na descrição, ou digitando !rulles :exclamation:"],
-            messageInterval: 5,
+            intervalMessages: ["Entrem no grupo da sala no Facebook / Join us on Facebook group: https://www.facebook.com/groups/998619933579146","@djs :exclamation:Leiam as regras da sala, na descrição, ou digitando !rules :exclamation:"],
+            messageInterval: 4,
             songstats: false,
             commandLiteral: "!",
             blacklists: {
