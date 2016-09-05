@@ -318,7 +318,7 @@
             name: null,
             chatMessages: [],
             users: [],
-            afkList: [],
+            afkList: [], 
             mutedUsers: [],
             bannedUsers: [],
             skippable: true,
