@@ -306,8 +306,7 @@
             website: null,
             intervalMessages: [
                 ["@djs Vejam as regras digitando !rules ou na descrição da sala."],
-                ["Junte-se ao nosso grupo no Facebook/Join our facebook group: https://www.fb.com/groups/998619933579146"]
-
+                ["Junte-se ao nosso grupo no Facebook/Join our facebook group: https://www.fb.com/groups/998619933579146"],
             ],
             messageInterval: 4,
             songstats: false,
