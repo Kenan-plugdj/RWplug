@@ -19,11 +19,11 @@ Manager
 |!cycletimer | X | define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
 |!locktimer | X | define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |!maxlength | X | especifica a duração máxima de uma música |
-|!logout | | dar log out na conta que estiver hospedando o bot |
-|!refresh | | refreshes the browser of whoever runs the bot |
-|!usercmdcd | X | set the cooldown on commands by grey users |
-|!usercommands | | toggle user commands |
-|!voteskip | (X) | when no argument is specified, returns the current voteskip limit, when X is specified, voteskip limit is updated to the new specified limit. |
+|!logout | | da log out na conta que estiver hospedando o bot |
+|!refresh | | refresca o navegador de quem estiver carregando o bot |
+|!usercmdcd | X | define o delay sobre os comandos para usuários cinzas |
+|!usercommands | | ativa/desativa os comandos de usuários cinzas |
+|!voteskip | (X) | especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
 
 Bouncer+
 --------
