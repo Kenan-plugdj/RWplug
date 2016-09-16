@@ -10,9 +10,9 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | sets the maximum afk time |
-|!botname | (botname) | change the default bot name |
-|!bouncer+ | | toggle bouncer+ |
+|!afklimit | X | seta o tempo máximo de AFK |
+|!botname | (nome do bot) | altera o nome padrão do bot |
+|!bouncer+ | | altera o bouncer+ |
 |!skippos | X | set the position to which skip and lockskip moves the dj |
 |!clearchat | |clears the chat |
 |!cycle | | toggle DJ cycle |
