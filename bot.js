@@ -304,7 +304,7 @@
             fbLink: "https://www.fb.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
-            intervalMessages: ["@djs Vejam as regras digitando !rules ou na descrição da sala.","Junte-se ao nosso grupo no Facebook/Join our facebook group: https://www.fb.com/groups/998619933579146"],
+            intervalMessages: [],
             messageInterval: 4,
             songstats: false,
             commandLiteral: "!",
