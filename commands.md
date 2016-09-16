@@ -10,13 +10,13 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | seta o tempo máximo de AFK |
-|!botname | (nome do bot) | altera o nome padrão do bot |
+|!afklimit | X | define o tempo máximo de AFK |
+|!botname |  (nome do bot)  | altera o nome padrão do bot |
 |!bouncer+ | | altera o bouncer+ |
-|!skippos | X | set the position to which skip and lockskip moves the dj |
-|!clearchat | |clears the chat |
-|!cycle | | toggle DJ cycle |
-|!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
+|!skippos | X | define a posição para mover pelo lockskip ao pular um DJ |
+|!clearchat | |limpa todo o chat |
+|!cycle | | alterna o ciclo de Dj |
+|!cycletimer | X | define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
 |!language | (language) | specify the language you would like the bot to use |
 |!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
 |!maxlength | X | specify the maximum length a song can be when timeguard is enabled |
