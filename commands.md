@@ -1,8 +1,8 @@
 Commands:
 =========
 
-X specifies a number  
-Arguments between ( ) are optional
+X Especifica um número  
+Argumentos entren ( ) são opcionais
 
 
 Manager
