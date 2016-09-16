@@ -15,12 +15,11 @@ Manager
 |!bouncer+ | | altera o bouncer+ |
 |!skippos | X | define a posição para mover pelo lockskip ao pular um DJ |
 |!clearchat | |limpa todo o chat |
-|!cycle | | alterna o ciclo de Dj |
+|!cycle | | altera o ciclo de Djs |
 |!cycletimer | X | define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
-|!language | (language) | specify the language you would like the bot to use |
-|!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
-|!maxlength | X | specify the maximum length a song can be when timeguard is enabled |
-|!logout | | logs out account bot is hosted on |
+|!locktimer | X | define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
+|!maxlength | X | especifica a duração máxima de uma música |
+|!logout | | dar log out na conta que estiver hospedando o bot |
 |!refresh | | refreshes the browser of whoever runs the bot |
 |!usercmdcd | X | set the cooldown on commands by grey users |
 |!usercommands | | toggle user commands |
