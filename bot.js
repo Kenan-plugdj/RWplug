@@ -1428,7 +1428,7 @@
             }, 60 * 60 * 1000);
             basicBot.room.automsg = setInterval(function () {
                 basicBot.room.automsgFunc();
-            }, 4 * 60 * 1000);
+            }, 8 * 60 * 1000);
             basicBot.loggedInID = API.getUser().id;
             basicBot.status = true;
             API.sendChat('/cap ' + basicBot.settings.startupCap);
