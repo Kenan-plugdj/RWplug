@@ -28,11 +28,11 @@ Manager
 Bouncer+
 --------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | add usuário à lista de espera |
 |!afkremoval | | alterna a verificação AFK |
-|!autoskip | | pula as músicas automaticamente após terminarem (usado quando circulo-bug aparece) |
+|!autoskip | | pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
 |!deletechat | @user | deleta todo o chat de um determinado usuário |
 |!lock | | trava a lista de espera |
 |!move | @user (X) | move o usuário para posição X na lista de espera, posição padrão 1 |
@@ -45,15 +45,15 @@ Bouncer+
 Bouncer
 -------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!active | (X) | shows how many users chatted in the past X minutes. If no X specified, 60 is set as default |
-|!afkreset | @user | resets the afk time of user |
-|!afktime | @user | shows how long user has been afk |
-|!autodisable | | toggle the autodisable |
-|!ban | @user | bans user for 1 day |
-|!blacklist / !bl | blacklistname | add the song to the specified blacklist |
-|!commanddeletion | | toggles if bot commands gets deleted |
+|!active | (X) | mostra quantos usuários conversaram nos últimos x minutos. Se x não for especificado, 60 é definido como padrão |
+|!afkreset | @user | reseta o tempo AFK do usuário |
+|!afktime | @user | mostra quanto tempo o usuário está AFK |
+|!autodisable | | alterna o autodisable (afkdisable e autojoindisable) |
+|!ban | @user | bane o usuário por 1 dia |
+|!blacklist / !bl | blacklistname | add a música para blacklist especificada |
+|!commanddeletion | | alterna se os comandos do bot serão excluídos |
 |!blinfo | | get information required to blacklist a song |
 |!cycleguard | | toggles the cycleguard |
 |!dclookup / !dc | (@user) | do dclookup for user |
@@ -86,7 +86,7 @@ Bouncer
 Resident DJ
 -----------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | give a link to the current song
 
@@ -95,7 +95,7 @@ Resident DJ
 User
 ----
 
-|Command | Arguments |  Description |
+|Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!8ball | (message) | ask the bot a question, the bot will return random variations of a yes or no answer. |
 |!autowoot | | links to PlugCubed, the advised script/plugin to use for autowooting |
