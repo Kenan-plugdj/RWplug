@@ -276,7 +276,8 @@
             timeGuard: true,
             maximumSongLength: 8,
             autodisable: false,
-            commandCooldown: 30,
+            automsg: true,
+            commandCooldown: 15,
             usercommandsEnabled: true,
             thorCommand: false,
             thorCooldown: 10,
@@ -288,7 +289,7 @@
                 ["mix", "You played a mix, which is against the rules. "],
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
-                ["unavailable", "The song you played was not available for some users. "]
+                ["off", "The song you played was not available for some users. "]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
