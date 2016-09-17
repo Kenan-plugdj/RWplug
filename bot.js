@@ -241,7 +241,7 @@
         name: "Rock Wins bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "https://git.io/viPW3",
         chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
         chat: null,
         loadChat: loadChat,
