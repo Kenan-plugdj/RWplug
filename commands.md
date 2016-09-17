@@ -2,13 +2,13 @@ Comandos:
 =========
 
 X Especifica um número  
-Argumentos entren ( ) são opcionais
+Argumentos entre ( ) são opcionais
 
 
 Manager
 -------
 
-|Command | Arguments |  Description |
+|Commando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | define o tempo máximo de AFK |
 |!botname |  (nome do bot)  | altera o nome padrão do bot |
