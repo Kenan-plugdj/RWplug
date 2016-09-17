@@ -20,7 +20,7 @@ Manager
 |!locktimer | X | define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |!maxlength | X | especifica a duração máxima permitida das músicas |
 |!logout | | da log out na conta que estiver hospedando o bot |
-|!refresh | | refresca o navegador de quem estiver carregando o bot |
+|!refresh | | refresca o navegador de quem estiver rodando o bot |
 |!usercmdcd | X | define o delay sobre os comandos para usuários cinzas |
 |!usercommands | | ativa/desativa os comandos de usuários cinzas |
 |!voteskip | (X) | especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
