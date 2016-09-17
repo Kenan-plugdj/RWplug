@@ -301,7 +301,7 @@
             welcome: true,
             opLink: null,
             rulesLink: "http://prnt.sc/c152aa",
-            themeLink: null,
+            themeLink: "Rock'n'roll, todos os subgêneros do rock",
             fbLink: "https://www.fb.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
