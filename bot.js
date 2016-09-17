@@ -780,7 +780,7 @@
                     }
                     API.sendChat('/me ' + msg);
                 }
-            },
+            }, 
             updateBlacklists: function () {
                 for (var bl in basicBot.settings.blacklists) {
                     basicBot.room.blacklists[bl] = [];
