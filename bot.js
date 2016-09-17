@@ -335,6 +335,12 @@
                     API.sendChat('!joindisable');
                 }
             },
+            automsgInterval: null,
+            automsgFunc: function () {
+                if (basicBot.status && basicBot.settings.automsg) {
+                    API.chatLog('!message');
+            }
+            },
             queueing: 0,
             queueable: true,
             currentDJID: null,
