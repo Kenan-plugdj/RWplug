@@ -1,4 +1,4 @@
-Commands:
+Comandos:
 =========
 
 X Especifica um número  
@@ -12,10 +12,10 @@ Manager
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | define o tempo máximo de AFK |
 |!botname |  (nome do bot)  | altera o nome padrão do bot |
-|!bouncer+ | | altera o bouncer+ |
+|!bouncer+ | | alterna o bouncer+ |
 |!skippos | X | define a posição para mover pelo lockskip ao pular um DJ |
 |!clearchat | |limpa todo o chat |
-|!cycle | | altera o ciclo de Djs |
+|!cycle | | alterna o ciclo de Djs |
 |!cycletimer | X | define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
 |!locktimer | X | define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |!maxlength | X | especifica a duração máxima de uma música |
@@ -30,18 +30,17 @@ Bouncer+
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!add | @user | add user to the waitlist |
-|!afkremoval | | toggles the afk check |
-|!autoskip | | skips songs automatically when they're done (use when the circles-bug happens) |
-|!deletechat | @user | delete all the chats by a certain user |
-|!lock | | lock the waitlist |
-|!lockdown | | lock down the room: only staff can chat |
-|!move | @user (X) | moves user to position X on the waitlist, default is position 1 |
-|!remove | @user | remove user from the waitlist |
-|!roulette | | start a roulette |
-|!songstats | | toggle song statistics |
-|!unlock | | unlock the waitlist |
-|!welcome | | toggle the welcome message on user join |
+|!add | @user | add usuário à lista de espera |
+|!afkremoval | | alterna a verificação AFK |
+|!autoskip | | pula as músicas automaticamente após terminarem (usado quando circulo-bug aparece) |
+|!deletechat | @user | deleta todo o chat de um determinado usuário |
+|!lock | | trava a lista de espera |
+|!move | @user (X) | move o usuário para posição X na lista de espera, posição padrão 1 |
+|!remove | @user | remove usuário da lista de espera |
+|!roulette | | inicia a roleta |
+|!songstats | | alterna as estatísticas de músicas  |
+|!unlock | | destrava a lista de espera |
+|!welcome | | alterna a mensagem de boas vindas |
 
 Bouncer
 -------
