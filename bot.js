@@ -276,7 +276,6 @@
             timeGuard: true,
             maximumSongLength: 8,
             autodisable: false,
-            automsg: true,
             commandCooldown: 15,
             usercommandsEnabled: true,
             thorCommand: false,
@@ -305,8 +304,12 @@
             fbLink: "https://www.fb.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
-            intervalMessages: [],
-            messageInterval: 3,
+            intervalMessages: [
+                "@djs Vejam as regras digitando !rules ou na descrição da sala.",
+                "Junte-se ao nosso grupo no Facebook https://www.fb.com/groups/998619933579146",
+                "Tema: Rock'n'roll, todos os subgêneros do rock."
+                ],
+            messageInterval: 4,
             songstats: false,
             commandLiteral: "!",
             blacklists: {
@@ -334,12 +337,6 @@
                     API.sendChat('!afkdisable');
                     API.sendChat('!joindisable');
                 }
-            },
-            automsgInterval: null,
-            automsgFunc: function () {
-                if (basicBot.status && basicBot.settings.automsg) {
-                    API.chatLog('!mensagens');
-            }
             },
             queueing: 0,
             queueable: true,
@@ -764,23 +761,6 @@
                     };
                 });
             },
-            intervalMessage: function () {
-                var interval;
-                if (basicBot.settings.motdEnabled) interval = basicBot.settings.motdInterval;
-                else interval = basicBot.settings.messageInterval;
-                if ((basicBot.room.roomstats.songCount % interval) === 0 && basicBot.status) {
-                    var msg;
-                    if (basicBot.settings.motdEnabled) {
-                        msg = basicBot.settings.motd;
-                    }
-                    else {
-                        if (basicBot.settings.intervalMessages.length === 0) return void (0);
-                        var messageNumber = basicBot.room.roomstats.songCount % basicBot.settings.intervalMessages.length;
-                        msg = basicBot.settings.intervalMessages[messageNumber];
-                    }
-                    API.sendChat('/me ' + msg);
-                }
-            }, 
             updateBlacklists: function () {
                 for (var bl in basicBot.settings.blacklists) {
                     basicBot.room.blacklists[bl] = [];
@@ -1678,27 +1658,6 @@
                         else {
                             basicBot.settings.autodisable = !basicBot.settings.autodisable;
                             return API.sendChat(subChat(basicBot.chat.toggleon, {name: chat.un, 'function': basicBot.chat.autodisable}));
-                        }
-
-                    }
-                }
-            },
-            
-            automsgCommand: {
-                command: 'automsg',
-                rank: 'bouncer',
-                type: 'exact',
-                functionality: function (chat, cmd) {
-                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                    else {
-                        if (basicBot.settings.automsg) {
-                            basicBot.settings.automsg = !basicBot.settings.automsg;
-                            return API.sendChat(subChat(basicBot.chat.toggleoff, {name: chat.un, 'function': basicBot.chat.automsg}));
-                        }
-                        else {
-                            basicBot.settings.automsg = !basicBot.settings.automsg;
-                            return API.sendChat(subChat(basicBot.chat.toggleon, {name: chat.un, 'function': basicBot.chat.automsg}));
                         }
 
                     }
@@ -2984,26 +2943,6 @@
                             return API.sendChat(subChat(basicBot.chat.toggleon, {name: chat.un, 'function': basicBot.chat.etarestriction}));
                         }
                     }
-                }
-            },
-            msgCommand: {
-                command: 'mensagens',
-                rank: 'manager',
-                type: 'startsWith',
-                functionality: function (chat, cmd) {
-                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                    else {
-                            var crowd = API.getUsers();
-                            var msg = chat.message;
-                            var argument = msg.substring(cmd.length + 1).replace(/@/g, '');
-                            var randomUser = Math.floor(Math.random() * crowd.length);
-                            var randomBall = Math.floor(Math.random() * basicBot.chat.msg.length);
-                            var randomSentence = Math.floor(Math.random() * 1);
-                            setTimeout(function () {
-                            	API.sendChat(subChat(basicBot.chat.msg, {msg: basicBot.chat.mensagens[randomBall]}));
-                            }, 2000);
-                     }
                 }
             },
 
