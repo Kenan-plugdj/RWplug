@@ -254,7 +254,7 @@
             scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
-            startupVolume: 100, // 0-100
+            startupVolume: 75, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: true,
@@ -1678,6 +1678,27 @@
                         else {
                             basicBot.settings.autodisable = !basicBot.settings.autodisable;
                             return API.sendChat(subChat(basicBot.chat.toggleon, {name: chat.un, 'function': basicBot.chat.autodisable}));
+                        }
+
+                    }
+                }
+            },
+            
+            automsgCommand: {
+                command: 'automsg',
+                rank: 'bouncer',
+                type: 'exact',
+                functionality: function (chat, cmd) {
+                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+                    else {
+                        if (basicBot.settings.automsg) {
+                            basicBot.settings.automsg = !basicBot.settings.automsg;
+                            return API.sendChat(subChat(basicBot.chat.toggleoff, {name: chat.un, 'function': basicBot.chat.automsg}));
+                        }
+                        else {
+                            basicBot.settings.automsg = !basicBot.settings.automsg;
+                            return API.sendChat(subChat(basicBot.chat.toggleon, {name: chat.un, 'function': basicBot.chat.automsg}));
                         }
 
                     }
