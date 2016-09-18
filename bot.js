@@ -338,7 +338,7 @@
             automsgInterval: null,
             automsgFunc: function () {
                 if (basicBot.status && basicBot.settings.automsg) {
-                    API.chatLog('!message');
+                    API.chatLog('!mensagens');
             }
             },
             queueing: 0,
@@ -2966,7 +2966,7 @@
                 }
             },
             msgCommand: {
-                command: 'message',
+                command: 'mensagens',
                 rank: 'manager',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
