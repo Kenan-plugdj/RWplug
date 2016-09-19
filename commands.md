@@ -5,7 +5,7 @@ X Especifica um número
 Argumentos entre ( ) são opcionais
 
 
-Manager
+Coordenador 
 -------
 
 |Comando | Argumentos |  Descrição |
@@ -25,7 +25,7 @@ Manager
 |!usercommands | | ativa/desativa os comandos de usuários cinzas |
 |!voteskip | (X) | especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
 
-Bouncer+
+Segurança+
 --------
 
 |Comando | Argumentos |  Descrição |
@@ -42,7 +42,7 @@ Bouncer+
 |!unlock | | destrava a lista de espera |
 |!welcome | | alterna a mensagem de boas vindas |
 
-Bouncer
+Segurança
 -------
 
 |Comando | Argumentos |  Descrição |
@@ -64,33 +64,31 @@ Bouncer
 |!kick | (X) | kika o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
 |!kill | | desliga o bot |
 |!lockguard | | alterna o lockguard |
-|!lockskip | (reason) | skips, locks and moves the dj back up (the position can be set with !skippos) |
-|!motd | (X)/(message) | when no argument is specified, returns the Message of the Day, when X is specified, the MotD is given every X songs, when "message" is given, it sets the MotD to message |
-|!mute | @user/(X) | mute user, for X minutes if X is specified, otherwise for an undefined period |
-|!reload | | reload the bot |
-|!restricteta | | toggles the restriction on eta: grey users can use it once an hour |
-|!sessionstats | | display stats for the current session |
-|!skip | (reason) | skips the dj using smartskip. actions such as locking and moving user depends on various factors (the position the dj is moved to can be set with !skippos) |
-|!status | | display the bot's status and some settings |
-|!timeguard | | toggle the timeguard |
-|!togglebl | | toggle the blacklist |
-|!togglemotd | | toggle the motd |
-|!togglevoteskip | | toggle the voteskip |
-|!unban | @user | unban user |
-|!unmute | @user/all | unmute user |
-|!voteratio | @user | display the vote statistic for a user |
-|!whois | @user | returns plug related information about user |
+|!lockskip | (reason) | pula, trava e move o dj de volta para o topo da lista |
+|!motd | (X)/(message) | quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
+|!mute | @user/(X) | mutar usuário, por x minutos se x é especificado, caso contrário, por um período indefinido |
+|!reload | | recarrega o bot |
+|!restricteta | | alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
+|!sessionstats | | exibe estatísticas da sessão atual |
+|!skip | (reason) | pula o Dj atual |
+|!status | | exibe status e algumas configurações do bot |
+|!togglemotd | | alterna a mensagem do dia |
+|!togglevoteskip | | alterna o voteskip |
+|!unban | @user | desbane o usuário |
+|!unmute | @user/all | desmuta o usuário |
+|!voteratio | @user | disponibiliza as estatística de voto do usuário |
+|!whois | @user | coleta informações relacionadas ao usuário |
 
-Resident DJ
+DJ Residente
 -----------
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!link | | give a link to the current song
+|!link | | da um link da música atual 
 
 
 
-User
+Usuário
 ----
 
 |Comando | Argumentos |  Descrição |
