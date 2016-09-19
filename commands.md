@@ -52,20 +52,18 @@ Bouncer
 |!afktime | @user | mostra quanto tempo o usuário está AFK |
 |!autodisable | | alterna o autodisable (afkdisable e autojoindisable) |
 |!ban | @user | bane o usuário por 1 dia |
-|!blacklist / !bl | blacklistname | add a música para blacklist especificada |
+|!blacklist / !bl | blacklistname | add a música para a blacklist  |
 |!commanddeletion | | alterna se os comandos do bot serão excluídos |
-|!blinfo | | get information required to blacklist a song |
-|!cycleguard | | toggles the cycleguard |
-|!dclookup / !dc | (@user) | do dclookup for user |
-|!english | @user | ask user to speak english (asked in the language they set plug to) |
-|!eta | (@user) | shows when user will reach the booth |
-|!filter | | toggles the chat filter |
-|!forceskip | | forceskips the current song |
-|!historyskip | | toggles the history skip |
-|!jointime | @user | shows how long the user has been in the room |
-|!kick | (X) | kicks user for X minutes, default is 0.25 minutes (15 seconds) |
-|!kill | | shut down the bot |
-|!lockguard | | toggle the lockguard |
+|!cycleguard | | alterna o cycleguard |
+|!dclookup / !dc | (@user) | da dclookup para o usuário |
+|!eta | (@user) | mostra quanto tempo falta ao usuário chegar a cabine de DJ  |
+|!filter | | alterna o filtro do chat |
+|!forceskip | | forca o pulo da música atual |
+|!historyskip | | alterna o pulo de música no histórico |
+|!jointime | @user | mostra quanto tempo o usuário está logado na sala  |
+|!kick | (X) | kika o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
+|!kill | | desliga o bot |
+|!lockguard | | alterna o lockguard |
 |!lockskip | (reason) | skips, locks and moves the dj back up (the position can be set with !skippos) |
 |!motd | (X)/(message) | when no argument is specified, returns the Message of the Day, when X is specified, the MotD is given every X songs, when "message" is given, it sets the MotD to message |
 |!mute | @user/(X) | mute user, for X minutes if X is specified, otherwise for an undefined period |
