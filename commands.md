@@ -6,7 +6,7 @@ Comandos que estiverem ~~exemplo~~ não estão funcionando.
 
 Anfitrião
 -------
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | Define o tempo máximo de AFK |
 |!botname |  (nome do bot)  | Altera o nome padrão do bot |
@@ -15,7 +15,7 @@ Anfitrião
 
 Coordenador 
 -------
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!afkremoval | | Alterna a verificação AFK |
 |!autodisable | | Alterna o autodisable (afkdisable e autojoindisable) |
@@ -39,7 +39,7 @@ Coordenador
 Segurança+
 --------
 
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | Adiciona o usuário à lista de espera |
 |!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
@@ -56,7 +56,7 @@ Segurança+
 Segurança
 -------
 
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!active | (X) | Mostra quantos usuários conversaram nos últimos x minutos. Se x não for especificado, 60 é definido como padrão |
 |!afkreset | @user | Reseta o tempo AFK do usuário |
@@ -84,17 +84,17 @@ Segurança
 DJ Residente
 -----------
 
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | Dá um link da música atual 
 
 Usuário
 ----
 
-|Comando | Argumentos |  Descrição |
+|Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!8ball/ !ask | (mensagem) | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
-|!autowoot | | Links de autowoots conhecidos |
+|!autowoot | | Dá links de autowoots conhecidos |
 |!ba | | Explica a função de um Embaixador |
 |!commands | | Dá um link para os comandos do bot |
 |!cookie | (@user) | Dá um biscoito para o usuário |
@@ -104,7 +104,7 @@ Usuário
 |!fb | | Link do grupo da sala no facebook  |
 |!ghostbuster | @user | Verificar se o usuário está fantasma |
 |!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
-|~~!help~~ | | ~~Link de uma imagem para ajudar os usuários que entrou no plug~~|
+|~~!help~~ | | ~~Dá link de uma imagem para ajudar o usuário que ingressou no plug~~|
 |!join | | Juntar-se na roleta |
 |!leave | | Deixar da roleta |
 |!link | | Quando usuário é o DJ, dá um link para a música atual |
@@ -114,4 +114,4 @@ Usuário
 |!theme | | Dá link do tema da sala |
 |~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor.~~ |
 |~~!website~~ | | ~~Dá link parar o website da sala~~ |
-|~~!youtube~~ | | ~~Dá o link do canal no youtube da sala~~ |
+|~~!youtube~~ | | ~~Dá link do canal no youtube da sala~~ |
