@@ -3,7 +3,7 @@ Comandos:
 
 X Especifica um número  
 Argumentos ( ) são opcionais
-
+Comandos que estiverem ~~exemplo~~ não estão funcionando
 
 Anfitrião
 -------
@@ -99,7 +99,7 @@ Usuário
 |!ba | | Explica a função de um Embaixador |
 |!commands | | Dá um link para os comandos do bot |
 |!cookie | (@user) | Dá um biscoito para o usuário |
-|!dclookup / !dc | | Usa o dclookup em você mesmo |
+|!dclookup / !dc | | Usa o dc em você mesmo caso tenha disconectado |
 |!emoji | | Dá um link da lista de emoji's |
 |!eta | | Mostra quanto tempo resta até você chegar a cabine de DJ |
 |!fb | | Link do grupo da sala no facebook  |
@@ -109,10 +109,10 @@ Usuário
 |!join | | Juntar-se na roleta |
 |!leave | | Deixar da roleta |
 |!link | | Quando usuário é o DJ, dá um link para a música atual |
-|~~!op ~~| | ~~Link para a lista de mais tocadas~~ |
+|~~!op~~| | ~~Link para a lista de mais tocadas~~ |
 |!ping | | Pong! |
 |!rules | | Dá o link das regras |
 |!theme | | Dá link do tema da sala |
 |~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor.~~ |
-|~~!website | | ~~ Dá link parar o website da sala~~ |
+|~~!website~~ | | ~~Dá link parar o website da sala~~ |
 |~~!youtube~~ | | ~~Dá o link do canal no youtube da sala~~ |
