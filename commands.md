@@ -40,7 +40,6 @@ Segurança+
 |!roulette | | Inicia a roleta |
 |!songstats | | Alterna as estatísticas de músicas  |
 |!unlock | | Destrava a lista de espera |
-|!welcome | | Alterna a mensagem de boas vindas |
 
 Segurança
 -------
@@ -104,15 +103,14 @@ Usuário
 |!fb | | Link do grupo da sala no facebook  |
 |!ghostbuster | @user | Verificar se o usuário está fantasma |
 |!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
-|!help | | links to an image to help get people started on plug |
-|!join | | join the roulette |
-|!leave | | leave the roulette if you joined |
-|!link | | when the user is the DJ, give a link to the current song |
-|!op | | links to the OverPlayed list (if set in the settings) |
-|!ping | | pong! |
-|!purchase | | returns link to purchase more plug notes |
-|!rules | | links to the rules (if set in the settings) |
-|!theme | | links to the room's theme (if set in the settings) |
-|!thor | | users get moved to position 1 in the waitlist if they're worthy of Thor's hammer. |
-|!website | | links to the room's website (if set in the settings) |
-|!youtube | | links to the room's youtube page (if set in the settings) |
+|~~!help | | Link de uma imagem para ajudar as pessaos a iniciarem no plug~~ |
+|!join | | Juntar-se na roleta |
+|!leave | | Deixar da roleta |
+|!link | | Quando o usuário é o DJ, dá um link para a música atual |
+|!op | | Link para a lista de Mais tocadas |
+|!ping | | Pong! |
+|!rules | | Link das regras |
+|!theme | | Link do tema da sala |
+|!thor | | Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor. |
+|!website | | Link parar o website da sala |
+|!youtube | | Link do canal no youtube da sala |
