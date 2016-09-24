@@ -11,7 +11,7 @@ Anfitrião
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | Define o tempo máximo de AFK |
 |!botname |  (nome do bot)  | Altera o nome padrão do bot |
-|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
+|!togglevoteskip | | Alterna o voteskip |
 |!voteskip | (X) | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
 
 Coordenador 
@@ -33,9 +33,9 @@ Coordenador
 |!refresh | | Refresca o navegador de quem estiver rodando o bot |
 |!reload | | Recarrega o bot |
 |!roulette/ !roleta | | Inicia a roleta |
-|!togglevoteskip | | Alterna o voteskip |
 |!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
 |!usercommands | | Alterna os comandos de usuários cinzas |
+|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
 
 Segurança+
 --------
@@ -105,14 +105,14 @@ Usuário
 |!fb | | Link do grupo da sala no facebook  |
 |!ghostbuster | @user | Verificar se o usuário está fantasma |
 |!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
-|~~!help | | Link de uma imagem para ajudar as pessaos a iniciarem no plug~~ |
+|~~!help~~ | | ~~Link de uma imagem para ajudar os usuários que entrou no plug~~|
 |!join | | Juntar-se na roleta |
 |!leave | | Deixar da roleta |
 |!link | | Quando usuário é o DJ, dá um link para a música atual |
-|~~!op | | Link para a lista de mais tocadas~~ |
+|~~!op ~~| | ~~Link para a lista de mais tocadas~~ |
 |!ping | | Pong! |
 |!rules | | Dá o link das regras |
 |!theme | | Dá link do tema da sala |
-|~~!thor | | Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor.~~ |
-|~~!website | | Dá link parar o website da sala~~ |
-|~~!youtube | | Dá o link do canal no youtube da sala~~ |
+|~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor.~~ |
+|~~!website | | ~~ Dá link parar o website da sala~~ |
+|~~!youtube~~ | | ~~Dá o link do canal no youtube da sala~~ |
