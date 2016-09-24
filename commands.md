@@ -5,25 +5,33 @@ X Especifica um número
 Argumentos ( ) são opcionais
 
 
-Coordenador 
+Anfitrião
 -------
-
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | Define o tempo máximo de AFK |
 |!botname |  (nome do bot)  | Altera o nome padrão do bot |
-|!bouncer+ | | Alterna o bouncer+ |
 |!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
+
+Coordenador 
+-------
+|Comando | Argumentos |  Descrição |
+|:------:|:---------:|:--------------------------------------:|
+|!afkremoval | | Alterna a verificação AFK |
+|!bouncer+ | | Alterna o bouncer+ |
 |!clearchat | |Limpa todo o chat |
 |!cycle | | Alterna o ciclo de Djs |
 |!cycletimer | X | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
+|!historyskip | | Alterna o pulo de música no histórico |
+|!kill | | Desliga o bot |
 |!locktimer | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
-|!maxlength | X | Especifica a duração máxima permitida das músicas |
 |!logout | | Dá log out na conta que estiver hospedando o bot |
+|!maxlength | X | Especifica a duração máxima permitida das músicas |
 |!refresh | | Refresca o navegador de quem estiver rodando o bot |
+|!roulette | | Inicia a roleta |
 |!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
 |!usercommands | | Alterna os comandos de usuários cinzas |
-|!voteskip | (X) | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
+|!voteskip | (X) | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
 
 Segurança+
 --------
@@ -31,13 +39,13 @@ Segurança+
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | Adiciona o usuário à lista de espera |
-|!afkremoval | | Alterna a verificação AFK |
 |!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
+|!blacklist / !bl | blacklistname | Adiciona a música para a blacklist  |
 |!deletechat | @user | Deleta todo o chat de um determinado usuário |
 |!lock | | Trava a lista de espera |
+|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
 |!move | @user (X) | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |!remove | @user | Remove usuário da lista de espera |
-|!roulette | | Inicia a roleta |
 |!songstats | | Alterna as estatísticas de músicas  |
 |!unlock | | Destrava a lista de espera |
 
@@ -51,19 +59,15 @@ Segurança
 |!afktime | @user | Mostra quanto tempo o usuário está AFK |
 |!autodisable | | Alterna o autodisable (afkdisable e autojoindisable) |
 |!ban | @user | Bane o usuário por 1 dia |
-|!blacklist / !bl | blacklistname | Adiciona a música para a blacklist  |
 |!commanddeletion | | Alterna se os comandos do bot serão excluídos |
 |!cycleguard | | Alterna o cycleguard |
 |!dclookup / !dc | (@user) | Dá dclookup no usuário |
 |!eta | (@user) | Mostra quanto tempo falta ao usuário chegar a cabine de DJ  |
 |!filter | | Alterna o filtro do chat |
 |!forceskip | | Força o pulo da música atual |
-|!historyskip | | Alterna o pulo de música no histórico |
 |!jointime | @user | Mostra quanto tempo o usuário está logado na sala  |
 |!kick | (X) | Chuta o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
-|!kill | | Desliga o bot |
 |!lockguard | | Alterna o lockguard |
-|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
 |!motd | (X)/(mensagem) | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
 |!mute | @user/(X) | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
 |!reload | | Recarrega o bot |
