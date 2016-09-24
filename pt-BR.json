@@ -140,7 +140,7 @@
     "afkstatusreset": "\/me [@%%NAME%%] Status AFK resetado: @%%USERNAME%%.",
     "inactivefor": "\/me [@%%NAME%%] @%%USERNAME%% esteve inativo por %%TIME%%.",
     "inactivelonger": "\/me [@%%NAME%%] @%%USERNAME%% esteve inativo por mais tempo que %%BOTNAME%% esteve online.",
-    "autowoot": "\/me N\u00f3s Você pode escolher como autowoot o RCS: https://rcs.radiant.dj/, Plug p0ne: https://p0ne.com/plug_p0ne/, Plug3: https://plugcubed.net/ ou Plug#: http://plughash.github.io/",
+    "autowoot": "\/me Você pode escolher como autowoot o [RCS: https://rcs.radiant.dj/], [Plug p0ne: https://p0ne.com/plug_p0ne/], [Plug3: https://plugcubed.net/] ou [Plug#: http://plughash.github.io/]",
     "brandambassador": "\/me Um Embaixador de Marca \u00e9 a voz dos usu\u00e1rios da plug.dj. Eles promovem eventos, ajudam as comunidades e divulgam o plug.dj para todo o mundo. Mais info: https:\/\/plug.dj\/ba",
     "bouncerplusrank": "\/me [@%%NAME%%] Voc\u00ea precisa ser Coordenador ou superior para ativar o Bouncer+.",
     "chatcleared": "\/me [@%%NAME%%] O chat foi limpo.",
