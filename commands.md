@@ -1,7 +1,7 @@
 Comandos:
 =========
 X Especifica um número, Argumentos ( ) são opcionais.  
-Comandos que estiverem ~~exemplo~~ não estão funcionando.
+Comandos que estiverem ~~exemplo~~ não estão disponíveis.
 
 
 Anfitrião
