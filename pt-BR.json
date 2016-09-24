@@ -195,7 +195,7 @@
     "swapinvalid": "\/me [@%%NAME%%] Usu\u00e1rio inv\u00e1lido.",
     "swapwlonly": "\/me [@%%NAME%%] Use !swap somente com usu\u00e1rios que est\u00e3o na fila de espera.",
     "swapping": "\/me Trocando posi\u00e7\u00f5es: %%NAME1%% com %%NAME2%%.",
-    "genres": "\/me Encontre os g\u00eaneros permitidos aqui: %%LINK%%",
+    "genres": "\/me  %%LINK%%",
     "notbanned": "\/me [@%%NAME%%] Usu\u00e1rio mencionado n\u00e3o foi banido.",
     "unmutedeveryone": "\/me [@%%NAME%%] Todos foram desmutados.",
     "unmuteeveryonerank": "\/me [@%%NAME%%] Somente Coordenadores podem desmutar todos os usu\u00e1rios de uma vez.",
