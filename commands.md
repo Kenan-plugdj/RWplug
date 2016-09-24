@@ -66,25 +66,25 @@ Segurança
 |!lockguard | | Alterna o lockguard |
 |!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
 |!motd | (X)/(mensagem) | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
-|!mute | @user/(X) | Mta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
-|!reload | | recarrega o bot |
-|!restricteta | | alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
-|!sessionstats | | exibe estatísticas da sessão atual |
-|!skip | (razão) | pula o Dj atual |
-|!status | | exibe status e algumas configurações do bot |
-|!togglemotd | | alterna a mensagem do dia |
-|!togglevoteskip | | alterna o voteskip |
-|!unban | @user | desbane o usuário |
-|!unmute | @user/all | desmuta o usuário |
-|!voteratio | @user | disponibiliza as estatística de voto do usuário |
-|!whois | @user | coleta informações relacionadas ao usuário |
+|!mute | @user/(X) | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
+|!reload | | Recarrega o bot |
+|!restricteta | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
+|!sessionstats | | Exibe estatísticas da sessão atual |
+|!skip | (razão) | Pula o Dj atual |
+|!status | | Exibe status e algumas configurações do bot |
+|!togglemotd | | Alterna a mensagem do dia |
+|!togglevoteskip | | Alterna o voteskip |
+|!unban | @user | Desbane o usuário |
+|!unmute | @user/all | Desmuta o usuário |
+|!voteratio | @user | Disponibiliza as estatística de voto do usuário |
+|!whois | @user | Coleta informações relacionadas ao usuário |
 
 DJ Residente
 -----------
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!link | | dá um link da música atual 
+|!link | | Dá um link da música atual 
 
 
 
@@ -93,20 +93,20 @@ Usuário
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!8ball | (mensagem) | faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
-|!autowoot | | links de autowoots que podem ser utilizados |
-|!ba | | explica a função de um Embaixador |
-|!commands | | dá um link para os comandos do bot |
-|!cookie | (@user) | dá um cookie para o usuário |
-|!dclookup / !dc | | usa o dclookup em você mesmo |
+|!8ball | (mensagem) | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
+|!autowoot | | Links de autowoots que podem ser utilizados |
+|!ba | | Explica a função de um Embaixador |
+|!commands | | Dá um link para os comandos do bot |
+|!cookie | (@user) | Dá um cookie para o usuário |
+|!dclookup / !dc | | Usa o dclookup em você mesmo |
 |!emoji | | Dá um link da lista de emoji's |
 |!eta | | Mostra quanto tempo resta até você chegar a cabine de DJ |
 |!fb | | Link do grupo da sala no facebook  |
 |!ghostbuster | @user | Verificar se o usuário está fantasma |
 |!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |!help | | links to an image to help get people started on plug |
-|~~!join~~ | | ~~join the roulette if it's up~~ |
-|~~!leave~~ | | ~~leave the roulette if you joined~~ |
+|!join | | join the roulette |
+|!leave | | leave the roulette if you joined |
 |!link | | when the user is the DJ, give a link to the current song |
 |!op | | links to the OverPlayed list (if set in the settings) |
 |!ping | | pong! |
