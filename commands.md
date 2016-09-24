@@ -2,7 +2,7 @@ Comandos:
 =========
 
 X Especifica um número  
-Argumentos entre ( ) são opcionais
+Argumentos ( ) são opcionais
 
 
 Coordenador 
@@ -10,67 +10,67 @@ Coordenador
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | define o tempo máximo de AFK |
-|!botname |  (nome do bot)  | altera o nome padrão do bot |
-|!bouncer+ | | alterna o bouncer+ |
-|!skippos | X | define a posição para mover pelo lockskip ao pular um DJ |
-|!clearchat | |limpa todo o chat |
-|!cycle | | alterna o ciclo de Djs |
-|!cycletimer | X | define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
-|!locktimer | X | define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
-|!maxlength | X | especifica a duração máxima permitida das músicas |
-|!logout | | da log out na conta que estiver hospedando o bot |
-|!refresh | | refresca o navegador de quem estiver rodando o bot |
-|!usercmdcd | X | define o delay sobre os comandos para usuários cinzas |
-|!usercommands | | ativa/desativa os comandos de usuários cinzas |
-|!voteskip | (X) | especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
+|!afklimit | X | Define o tempo máximo de AFK |
+|!botname |  (nome do bot)  | Altera o nome padrão do bot |
+|!bouncer+ | | Alterna o bouncer+ |
+|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
+|!clearchat | |Limpa todo o chat |
+|!cycle | | Alterna o ciclo de Djs |
+|!cycletimer | X | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
+|!locktimer | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
+|!maxlength | X | Especifica a duração máxima permitida das músicas |
+|!logout | | Dá log out na conta que estiver hospedando o bot |
+|!refresh | | Refresca o navegador de quem estiver rodando o bot |
+|!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
+|!usercommands | | Alterna os comandos de usuários cinzas |
+|!voteskip | (X) | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip correto|
 
 Segurança+
 --------
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!add | @user | add usuário à lista de espera |
-|!afkremoval | | alterna a verificação AFK |
-|!autoskip | | pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
-|!deletechat | @user | deleta todo o chat de um determinado usuário |
-|!lock | | trava a lista de espera |
-|!move | @user (X) | move o usuário para posição X na lista de espera, posição padrão 1 |
-|!remove | @user | remove usuário da lista de espera |
-|!roulette | | inicia a roleta |
-|!songstats | | alterna as estatísticas de músicas  |
-|!unlock | | destrava a lista de espera |
-|!welcome | | alterna a mensagem de boas vindas |
+|!add | @user | Adiciona o usuário à lista de espera |
+|!afkremoval | | Alterna a verificação AFK |
+|!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
+|!deletechat | @user | Deleta todo o chat de um determinado usuário |
+|!lock | | Trava a lista de espera |
+|!move | @user (X) | Move o usuário para posição X na lista de espera, posição padrão 1 |
+|!remove | @user | Remove usuário da lista de espera |
+|!roulette | | Inicia a roleta |
+|!songstats | | Alterna as estatísticas de músicas  |
+|!unlock | | Destrava a lista de espera |
+|!welcome | | Alterna a mensagem de boas vindas |
 
 Segurança
 -------
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!active | (X) | mostra quantos usuários conversaram nos últimos x minutos. Se x não for especificado, 60 é definido como padrão |
-|!afkreset | @user | reseta o tempo AFK do usuário |
-|!afktime | @user | mostra quanto tempo o usuário está AFK |
-|!autodisable | | alterna o autodisable (afkdisable e autojoindisable) |
-|!ban | @user | bane o usuário por 1 dia |
-|!blacklist / !bl | blacklistname | add a música para a blacklist  |
-|!commanddeletion | | alterna se os comandos do bot serão excluídos |
-|!cycleguard | | alterna o cycleguard |
-|!dclookup / !dc | (@user) | da dclookup para o usuário |
-|!eta | (@user) | mostra quanto tempo falta ao usuário chegar a cabine de DJ  |
-|!filter | | alterna o filtro do chat |
-|!forceskip | | forca o pulo da música atual |
-|!historyskip | | alterna o pulo de música no histórico |
-|!jointime | @user | mostra quanto tempo o usuário está logado na sala  |
-|!kick | (X) | kika o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
-|!kill | | desliga o bot |
-|!lockguard | | alterna o lockguard |
-|!lockskip | (reason) | pula, trava e move o dj de volta para o topo da lista |
-|!motd | (X)/(message) | quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
-|!mute | @user/(X) | mutar usuário, por x minutos se x é especificado, caso contrário, por um período indefinido |
+|!active | (X) | Mostra quantos usuários conversaram nos últimos x minutos. Se x não for especificado, 60 é definido como padrão |
+|!afkreset | @user | Reseta o tempo AFK do usuário |
+|!afktime | @user | Mostra quanto tempo o usuário está AFK |
+|!autodisable | | Alterna o autodisable (afkdisable e autojoindisable) |
+|!ban | @user | Bane o usuário por 1 dia |
+|!blacklist / !bl | blacklistname | Adiciona a música para a blacklist  |
+|!commanddeletion | | Alterna se os comandos do bot serão excluídos |
+|!cycleguard | | Alterna o cycleguard |
+|!dclookup / !dc | (@user) | Dá dclookup no usuário |
+|!eta | (@user) | Mostra quanto tempo falta ao usuário chegar a cabine de DJ  |
+|!filter | | Alterna o filtro do chat |
+|!forceskip | | Força o pulo da música atual |
+|!historyskip | | Alterna o pulo de música no histórico |
+|!jointime | @user | Mostra quanto tempo o usuário está logado na sala  |
+|!kick | (X) | Chuta o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
+|!kill | | Desliga o bot |
+|!lockguard | | Alterna o lockguard |
+|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
+|!motd | (X)/(mensagem) | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
+|!mute | @user/(X) | Mta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
 |!reload | | recarrega o bot |
 |!restricteta | | alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |!sessionstats | | exibe estatísticas da sessão atual |
-|!skip | (reason) | pula o Dj atual |
+|!skip | (razão) | pula o Dj atual |
 |!status | | exibe status e algumas configurações do bot |
 |!togglemotd | | alterna a mensagem do dia |
 |!togglevoteskip | | alterna o voteskip |
@@ -84,7 +84,7 @@ DJ Residente
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!link | | da um link da música atual 
+|!link | | dá um link da música atual 
 
 
 
@@ -93,17 +93,17 @@ Usuário
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!8ball | (message) | ask the bot a question, the bot will return random variations of a yes or no answer. |
-|!autowoot | | links to PlugCubed, the advised script/plugin to use for autowooting |
-|!ba | | explains the Brand Ambassador rank |
-|!commands | | gives a link to the commands |
-|!cookie | (@user) | give a cookie to user |
-|!dclookup / !dc | | use dclookup on yourself |
-|!emoji | | a link to a list with emoji's |
-|!eta | | shows how long before you reach the booth |
-|!fb | | links to the room's Facebook page (if set in the settings) |
-|!ghostbuster | @user | checks if user is ghosting |
-|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
+|!8ball | (mensagem) | faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
+|!autowoot | | links de autowoots que podem ser utilizados |
+|!ba | | explica a função de um Embaixador |
+|!commands | | dá um link para os comandos do bot |
+|!cookie | (@user) | dá um cookie para o usuário |
+|!dclookup / !dc | | usa o dclookup em você mesmo |
+|!emoji | | Dá um link da lista de emoji's |
+|!eta | | Mostra quanto tempo resta até você chegar a cabine de DJ |
+|!fb | | Link do grupo da sala no facebook  |
+|!ghostbuster | @user | Verificar se o usuário está fantasma |
+|!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |!help | | links to an image to help get people started on plug |
 |~~!join~~ | | ~~join the roulette if it's up~~ |
 |~~!leave~~ | | ~~leave the roulette if you joined~~ |
