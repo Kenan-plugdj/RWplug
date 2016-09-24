@@ -19,7 +19,6 @@ Coordenador
 |:------:|:---------:|:--------------------------------------:|
 |!afkremoval | | Alterna a verificação AFK |
 |!autodisable | | Alterna o autodisable (afkdisable e autojoindisable) |
-|!blacklist / !bl | blacklistname | Adiciona a música na lista negra |
 |!bouncer+ | | Alterna o bouncer+ |
 |!clearchat | |Limpa todo o chat |
 |!cycle | | Alterna o ciclo de Djs |
@@ -44,6 +43,7 @@ Segurança+
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | Adiciona o usuário à lista de espera |
 |!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
+|!blacklist / !bl | blacklistname | Adiciona a música na lista negra |
 |!deletechat | @user | Deleta todo o chat de um determinado usuário |
 |!forceskip | | Força o pulo da música atual |
 |!lockguard | | Alterna o lockguard |
