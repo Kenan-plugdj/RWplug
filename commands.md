@@ -26,6 +26,7 @@ Coordenador
 |!historyskip | | Alterna o pulo de música no histórico |
 |!kill | | Desliga o bot |
 |!lock | | Trava a lista de espera |
+|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
 |!locktimer | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |!logout | | Dá log out na conta que estiver hospedando o bot |
 |!maxlength | X | Especifica a duração máxima permitida das músicas |
@@ -47,7 +48,6 @@ Segurança+
 |!deletechat | @user | Deleta todo o chat de um determinado usuário |
 |!forceskip | | Força o pulo da música atual |
 |!lockguard | | Alterna o lockguard |
-|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
 |!move | @user (X) | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |!restricteta | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |!songstats | | Alterna as estatísticas de músicas  |
