@@ -26,7 +26,7 @@ Coordenadores
 |!historyskip | | Alterna o pulo de música no histórico |
 |!kill | | Desliga o bot |
 |!lock | | Trava a lista de espera |
-|!lockskip | (razão) | Pula, trava e move o dj de volta para o topo da lista |
+|!lockskip | (razão) | Pula, trava e move o Dj de volta para o topo da lista |
 |!locktimer | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |!logout | | Dá log out na conta que estiver hospedando o bot |
 |!maxlength | X | Especifica a duração máxima permitida das músicas |
