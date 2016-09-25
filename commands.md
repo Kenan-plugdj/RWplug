@@ -4,7 +4,7 @@ X Especifica um número, Argumentos ( ) são opcionais.
 Comandos que estiverem ~~exemplo~~ estão indisponíveis.
 
 
-Anfitrião
+Anfitrião e Coanfitriões
 -------
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
@@ -13,7 +13,7 @@ Anfitrião
 |!togglevoteskip | | Alterna o voteskip |
 |!voteskip | (X) | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
 
-Coordenador 
+Coordenadores 
 -------
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
@@ -53,7 +53,7 @@ Segurança+
 |!songstats | | Alterna as estatísticas de músicas  |
 |!unlock | | Destrava a lista de espera |
 
-Segurança
+Seguranças
 -------
 
 |Comando | Argumento |  Descrição |
@@ -81,14 +81,14 @@ Segurança
 |!voteratio | @user | Disponibiliza as estatística de voto do usuário |
 |!whois | @user | Coleta informações relacionadas ao usuário |
 
-DJ Residente
+DJs Residentes
 -----------
 
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | Dá um link da música atual 
 
-Usuário
+Usuários
 ----
 
 |Comando | Argumento |  Descrição |
