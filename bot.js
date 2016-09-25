@@ -1922,7 +1922,7 @@
             },
 
             commandsCommand: {
-                command: ['commands', 'cmds'],
+                command: ['commands','cmds'],
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
