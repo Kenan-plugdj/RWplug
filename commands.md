@@ -108,10 +108,10 @@ Usuários
 |!join | | Juntar-se na roleta |
 |!leave | | Deixar da roleta |
 |!link | | Quando usuário é o DJ, dá um link para a música atual |
-|~~!op~~| | ~~Link para a lista de mais tocadas~~ |
+|~~!op~~| | ~~Link para a lista de músicas mais tocadas~~ |
 |!ping | | Pong! |
 |!rules | | Dá o link das regras |
 |!theme | | Dá link do tema da sala |
-|~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor.~~ |
-|~~!website~~ | | ~~Dá link parar o website da sala~~ |
+|~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor, caso contrário será movido para último na lista.~~ |
+|~~!website~~ | | ~~Dá link para o website da sala~~ |
 |~~!youtube~~ | | ~~Dá link do canal no youtube da sala~~ |
