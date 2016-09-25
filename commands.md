@@ -33,7 +33,7 @@ Coordenadores
 |!refresh | | Refresca o navegador de quem estiver rodando o bot |
 |!reload | | Reinicia o bot |
 |!roulette/ !roleta | | Inicia a roleta |
-|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
+|!skippos | X | Define a posição para mover pelo lockskip ao pular um Dj |
 |!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
 |!usercommands | | Alterna os comandos de usuários cinzas |
 
@@ -65,11 +65,11 @@ Seguranças
 |!commanddeletion | | Alterna se os comandos do bot serão excluídos |
 |!cycleguard | | Alterna o cycleguard |
 |!dclookup / !dc | (@user) | Dá dclookup no usuário |
-|!eta | (@user) | Mostra quanto tempo falta ao usuário chegar a cabine de DJ  |
+|!eta | (@user) | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
 |!filter | | Alterna o filtro do chat |
 |!jointime | @user | Mostra quanto tempo o usuário está logado na sala  |
 |!kick | (X) | Chuta o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
-|!motd | (X)/(mensagem) | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o MD é dada a cada x músicas, quando "mensagem" é dada, é definido a mensagem MD |
+|!motd | (X)/(mensagem) | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o moensagem é dada a cada x músicas |
 |!mute | @user/(X) | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
 |!remove | @user | Remove usuário da lista de espera |
 |!sessionstats | | Exibe estatísticas da sessão atual |
@@ -81,7 +81,7 @@ Seguranças
 |!voteratio | @user | Disponibiliza as estatística de voto do usuário |
 |!whois | @user | Coleta informações relacionadas ao usuário |
 
-DJs Residentes
+Djs Residentes
 -----------
 
 |Comando | Argumento |  Descrição |
@@ -100,14 +100,14 @@ Usuários
 |!cookie | (@user) | Dá um biscoito para o usuário |
 |!dclookup / !dc | | Usa o dc em você mesmo caso tenha disconectado |
 |!emoji | | Dá um link da lista de emoji's |
-|!eta | | Mostra quanto tempo resta até você chegar a cabine de DJ |
+|!eta | | Mostra quanto tempo resta até você chegar a cabine de Dj |
 |!fb | | Link do grupo da sala no facebook  |
 |!ghostbuster | @user | Verificar se o usuário está fantasma |
 |!gif | (mensagem) | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |~~!help~~ | | ~~Dá link de uma imagem para ajudar o usuário que ingressou no plug~~|
 |!join | | Juntar-se na roleta |
 |!leave | | Deixar da roleta |
-|!link | | Quando usuário é o DJ, dá um link para a música atual |
+|!link | | Quando usuário é o Dj, dá um link para a música atual |
 |~~!op~~| | ~~Link para a lista de músicas mais tocadas~~ |
 |!ping | | Pong! |
 |!rules | | Dá o link das regras |
