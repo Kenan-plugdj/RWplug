@@ -31,7 +31,7 @@ Coordenador
 |!logout | | Dá log out na conta que estiver hospedando o bot |
 |!maxlength | X | Especifica a duração máxima permitida das músicas |
 |!refresh | | Refresca o navegador de quem estiver rodando o bot |
-|!reload | | Recarrega o bot |
+|!reload | | Reinicia o bot |
 |!roulette/ !roleta | | Inicia a roleta |
 |!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
 |!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
