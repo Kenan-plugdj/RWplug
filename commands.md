@@ -33,9 +33,9 @@ Coordenador
 |!refresh | | Refresca o navegador de quem estiver rodando o bot |
 |!reload | | Recarrega o bot |
 |!roulette/ !roleta | | Inicia a roleta |
+|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
 |!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
 |!usercommands | | Alterna os comandos de usuários cinzas |
-|!skippos | X | Define a posição para mover pelo lockskip ao pular um DJ |
 
 Segurança+
 --------
@@ -44,7 +44,7 @@ Segurança+
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | Adiciona o usuário à lista de espera |
 |!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
-|!blacklist / !bl | blacklistname | Adiciona a música na lista negra |
+|!blacklist / !bl | blacklistname | Adiciona a música atual para a lista negra |
 |!deletechat | @user | Deleta todo o chat de um determinado usuário |
 |!forceskip | | Força o pulo da música atual |
 |!lockguard | | Alterna o lockguard |
@@ -96,7 +96,7 @@ Usuário
 |!8ball/ !ask | (mensagem) | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
 |!autowoot | | Dá links de autowoots conhecidos |
 |!ba | | Explica a função de um Embaixador |
-|!commands | | Dá um link para os comandos do bot |
+|!commands/ !cmds | | Dá um link para os comandos do bot |
 |!cookie | (@user) | Dá um biscoito para o usuário |
 |!dclookup / !dc | | Usa o dc em você mesmo caso tenha disconectado |
 |!emoji | | Dá um link da lista de emoji's |
