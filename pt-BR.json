@@ -69,7 +69,7 @@
     "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
     "welcome": "Bem vindo(a), %%NAME%%",
     "welcomeback": "Bem vindo(a) de volta, %%NAME%%",
-    "songknown": "@%%NAME%%, essa m\u00fasica est\u00e1 no hist\u00f3rico, observe bem antes de tocar.",
+    "songknown": "@%%NAME%%, essa m\u00fasica est\u00e1 no hist\u00f3rico.",
     "notavailable": "\/me @%%NAME%%, a m\u00fasica que voc\u00ea tocou n\u00e3o est\u00e1 dispon\u00edvel.",
     "timelimit": "@%%NAME%%, sua m\u00fasica excede o tempo limite de %%MAXLENGTH%% minutos. Leia as regras.",
     "permissionownsong": "\/me :up: @%%NAME%% tem permiss\u00e3o para tocar m\u00fasica de pr\u00f3pria autoria!",
@@ -209,6 +209,6 @@
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
     "thorNotClose": "\/me @%%NAME%% voc\\u00ea n\\u00e3o \u00e9 digno nem de chegar perto do martelo.",
     "thorcd": "\/me @%%NAME%% voc\u00ea pode tentar levantar o martelo em %%TIME%% minutos.",
-    "thorWorthy": "\/me @%%NAME%% voc\u00ea \u00e9 d\u00edgno do martelo :hammer:. Parab\u00e9ns!",
+    "thorWorthy": "\/me @%%NAME%% voc\u00ea \u00e9 d\u00edgno de levantar o martelo :hammer:. Parab\u00e9ns!",
     "thorNotWorthy": "\/me @%%NAME%% voc\u00ea n\u00e3o \u00e9 d\u00edgno do martelo."
 }
