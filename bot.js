@@ -305,7 +305,7 @@
             fbLink: "https://www.fb.com/groups/998619933579146/",
             youtubeLink: null,
             website: null,
-            intervalMessages: ["@djs Vejam as regras digitando !rules ou na descrição da sala.","Junte-se ao nosso grupo no Facebook https://www.fb.com/groups/998619933579146","Tema: Rock'n'roll, todos os subgêneros do rock."],
+            intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Junte-se ao nosso grupo no Facebook https://www.fb.com/groups/998619933579146","Tema: Rock'n'roll, todos os subgêneros do rock."],
             messageInterval: 5,
             songstats: false,
             commandLiteral: "!",
