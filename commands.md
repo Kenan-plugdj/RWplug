@@ -110,7 +110,8 @@ Usuários
 |!link | | Quando usuário é o Dj, dá um link para a música atual |
 |~~!op~~| | ~~Link para a lista de músicas mais tocadas~~ |
 |!ping | | Pong! |
-|!rules | | Dá o link das regras |
+|!regras | | Dá o link das regras |
+|!rules | | Gives the link of rules in english |
 |!theme | | Dá link do tema da sala |
 |~~!thor~~ | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor, caso contrário será movido para último na lista.~~ |
 |~~!website~~ | | ~~Dá link para o website da sala~~ |
