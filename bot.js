@@ -306,7 +306,7 @@
             youtubeLink: null,
             website: null,
             intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Junte-se ao nosso grupo no Facebook https://www.fb.com/groups/998619933579146","Tema: Rock'n'roll, todos os subgêneros do rock."],
-            messageInterval: 5,
+            messageInterval: 3,
             songstats: false,
             commandLiteral: "!",
             blacklists: {
