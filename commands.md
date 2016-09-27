@@ -62,7 +62,7 @@ Seguranças
 |!afkreset | @user | Reseta o tempo AFK do usuário |
 |!afktime | @user | Mostra quanto tempo o usuário está AFK |
 |!ban | @user | Bane o usuário por 1 dia |
-|!commanddeletion | | Alterna se os comandos do bot serão excluídos |
+|!commanddeletion/ !cmddeletion/ !cmddel | | Alterna se os comandos do bot serão excluídos |
 |!cycleguard | | Alterna o cycleguard |
 |!dclookup / !dc | (@user) | Dá dclookup no usuário |
 |!eta | (@user) | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
