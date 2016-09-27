@@ -1567,7 +1567,7 @@
 
             afklimitCommand: {
                 command: 'afklimit',
-                rank: 'host',
+                rank: 'cohost',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -1854,7 +1854,7 @@
 
             botnameCommand: {
                 command: 'botname',
-                rank: 'host',
+                rank: 'cohost',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -3427,7 +3427,7 @@
 
             togglevoteskipCommand: {
                 command: 'togglevoteskip',
-                rank: 'host',
+                rank: 'cohost',
                 type: 'exact',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -3590,7 +3590,7 @@
 
             voteskipCommand: {
                 command: 'voteskip',
-                rank: 'host',
+                rank: 'cohost',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
