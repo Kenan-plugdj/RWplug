@@ -8,10 +8,10 @@ Anfitrião e Coanfitriões
 -------
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|*!afklimit | X *| Define o tempo máximo de AFK |
-|*!botname |  (nome do bot)* | Altera o nome padrão do bot |
+|*!afklimit* | *X *| Define o tempo máximo de AFK |
+|*!botname* |  *(nome do bot)* | Altera o nome padrão do bot |
 |*!togglevoteskip* | | Alterna o voteskip |
-|*!voteskip | (X)* | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
+|*!voteskip* | *(X)* | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
 
 Coordenadores 
 -------
