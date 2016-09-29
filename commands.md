@@ -94,7 +94,7 @@ Usuários
 
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|*!8ball*/ *!ask* | *(mensagem)* | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
+|*!8ball*/ *!ask* | *(pergunta)* | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
 |*!autowoot* | | Dá links de autowoots conhecidos |
 |*!ba* | | Explica a função de um Embaixador |
 |*!commands*/ *!cmds* | | Dá um link para os comandos do bot |
