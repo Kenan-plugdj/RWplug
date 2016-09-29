@@ -73,7 +73,7 @@ Seguranças
 |!mute | @user/(X) | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
 |!remove | @user | Remove usuário da lista de espera |
 |!sessionstats | | Exibe estatísticas da sessão atual |
-|!skip | (razão) | Pula o Dj atual e move para posição 1 na lista se for especificada a razão definidas como: ["theme", "música fora do tema da sala."], ["history", "música no histórico."], ["mix", "mix, desacordo com as regras."], ["sound", "música com qualidade de som ruim ou sem som."], ["un", "música indisponível."]|
+|!skip | (razão) | Pula o Dj atual e move para posição 1 na lista se for especificada a razão definidas como: (theme), [música fora do tema da sala.], (history), [música no histórico.], (mix),[mix, desacordo com as regras.], (sound), [música com qualidade de som ruim ou sem som.], (un), [música indisponível.]|
 |!status | | Exibe status e algumas configurações do bot |
 |!togglemotd | | Alterna a mensagem do dia |
 |!unban | @user | Desbane o usuário |
