@@ -8,7 +8,7 @@ Anfitrião e Coanfitriões
 -------
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|*!afklimit* | *X *| Define o tempo máximo de AFK |
+|*!afklimit* | *X*| Define o tempo máximo de AFK |
 |*!botname* |  *(nome do bot)* | Altera o nome padrão do bot |
 |*!togglevoteskip* | | Alterna o voteskip |
 |*!voteskip* | *(X)* | Especifica o limite de voteskip, quando nenhum argumento é especificado, retorna para o limite de voteskip padrão|
@@ -17,25 +17,25 @@ Coordenadores
 -------
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!afkremoval | | Alterna a verificação AFK |
-|!autodisable | | Alterna o autodisable (afkdisable e autojoindisable) |
-|!bouncer+ | | Alterna o bouncer+ |
-|!clearchat | |Limpa todo o chat |
-|!cycle | | Alterna o ciclo de Djs |
-|!cycletimer | X | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
-|!historyskip | | Alterna o pulo de música no histórico |
-|!kill | | Desliga o bot |
-|!lock | | Trava a lista de espera |
-|!lockskip | (razão) | Pula, trava e move o Dj de volta para o topo da lista |
-|!locktimer | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
-|!logout | | Dá log out na conta que estiver hospedando o bot |
-|!maxlength | X | Especifica a duração máxima permitida das músicas |
-|!refresh | | Refresca o navegador de quem estiver rodando o bot |
-|!reload | | Reinicia o bot |
-|!roulette/ !roleta | | Inicia a roleta |
-|!skippos | X | Define a posição para mover pelo lockskip ao pular um Dj |
-|!usercmdcd | X | Define o delay sobre os comandos para usuários cinzas |
-|!usercommands | | Alterna os comandos de usuários cinzas |
+|*!afkremoval* | | Alterna a verificação AFK |
+|*!autodisable* | | Alterna o autodisable (afkdisable e autojoindisable) |
+|*!bouncer+* | | Alterna o bouncer+ |
+|*!clearchat* | |Limpa todo o chat |
+|*!cycle* | | Alterna o ciclo de Djs |
+|*!cycletimer* | *X* | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
+|*!historyskip* | | Alterna o pulo de música no histórico |
+|*!kill* | | Desliga o bot |
+|*!lock* | | Trava a lista de espera |
+|*!lockskip* | *(razão)* | Pula, trava e move o Dj de volta para o topo da lista |
+|*!locktimer* | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
+|*!logout* | | Dá log out na conta que estiver hospedando o bot |
+|*!maxlength* | X | Especifica a duração máxima permitida das músicas |
+|*!refresh* | | Refresca o navegador de quem estiver rodando o bot |
+|*!reload* | | Reinicia o bot |
+|*!roulette*/ *!roleta* | | Inicia a roleta |
+|*!skippos* | *X* | Define a posição para mover pelo lockskip ao pular um Dj |
+|*!usercmdcd* | *X* | Define o delay sobre os comandos para usuários cinzas |
+|*!usercommands* | | Alterna os comandos de usuários cinzas |
 
 Segurança+
 --------
