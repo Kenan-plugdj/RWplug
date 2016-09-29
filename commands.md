@@ -28,7 +28,7 @@ Coordenadores
 |*!lock* | | Trava a lista de espera |
 |*!lockskip* | *(razão)* | Pula, trava e move o Dj de volta para o topo da lista |
 |*!locktimer* | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
-|*!logout* | | Dá log out na conta que estiver hospedando o bot |
+|*!logout* | | Desloga a conta que estiver hospedando o bot |
 |*!maxlength* | X | Especifica a duração máxima permitida das músicas |
 |*!refresh* | | Refresca o navegador de quem estiver rodando o bot |
 |*!reload* | | Reinicia o bot |
@@ -42,16 +42,16 @@ Segurança+
 
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!add | @user | Adiciona o usuário à lista de espera |
-|!autoskip | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
-|!blacklist / !bl | blacklistname | Adiciona a música atual para a lista negra |
-|!deletechat | @user | Deleta todo o chat de um determinado usuário |
-|!forceskip | | Força o pulo da música atual |
-|!lockguard | | Alterna o lockguard |
-|!move | @user (X) | Move o usuário para posição X na lista de espera, posição padrão 1 |
-|!restricteta | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
-|!songstats | | Alterna as estatísticas de músicas  |
-|!unlock | | Destrava a lista de espera |
+|*!add* | *@user* | Adiciona o usuário à lista de espera |
+|*!autoskip* | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
+|*!blacklist* / *!bl* | blacklistname | Adiciona a música atual para a lista negra |
+|*!deletechat* | *@user* | Deleta todo o chat de um determinado usuário |
+|*!forceskip* | | Força o pulo da música atual |
+|*!lockguard* | | Alterna o lockguard |
+|*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
+|*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
+|*!songstats* | | Alterna as estatísticas de músicas  |
+|*!unlock* | | Destrava a lista de espera |
 
 Seguranças
 -------
