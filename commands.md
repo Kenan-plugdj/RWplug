@@ -34,7 +34,6 @@ Coordenadores
 |*!reload* | | Reinicia o bot |
 |*!roulette*/ *!roleta* | | Inicia a roleta |
 |*!skippos* | *X* | Define a posição para mover pelo lockskip ao pular um Dj |
-|*!unmute* | *all* | Desmuta todos os usuários.
 |*!usercmdcd* | *X* | Define o delay sobre os comandos para usuários cinzas |
 |*!usercommands* | | Alterna os comandos de usuários cinzas |
 
