@@ -102,7 +102,7 @@ Usuários
 |*!emoji* | | Dá um link da lista de emoji's |
 |*!eta* | | Mostra quanto tempo resta até você chegar a cabine de Dj |
 |*!fb* | | Link do grupo da sala no facebook  |
-|*!ghostbuster* | *@user* | Verificar se o usuário está fantasma |
+|*!ghostbuster* | *@user* | Verificar se o usuário virou fantasma |
 |*!gif* | *(tag)* | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |*~~!help~~* | | ~~Dá link de uma imagem para ajudar o usuário que ingressou no plug~~|
 |*!join* | | Juntar-se na roleta |
