@@ -73,8 +73,8 @@ Seguranças
 |!mute | @user/(X) | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
 |!remove | @user | Remove usuário da lista de espera |
 |!sessionstats | | Exibe estatísticas da sessão atual |
-|!skip | (razão) | Pula o Dj atual e move para posição 1 na lista. (razão) definidas como:| 
-                |["theme", "This song does not fit the room theme. "],
+|!skip | (razão) | Pula o Dj atual e move para posição 1 na lista. (razão) definidas como: 
+                ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
                 ["history", "This song is in the history. "],
                 ["mix", "You played a mix, which is against the rules. "],
