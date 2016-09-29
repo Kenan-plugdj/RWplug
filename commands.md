@@ -74,8 +74,7 @@ Seguranças
 |!remove | @user | Remove usuário da lista de espera |
 |!sessionstats | | Exibe estatísticas da sessão atual |
 |!skip | (razão) | Pula o Dj atual e move para posição 1 na lista.
-(razão) definidas como: 
-|
+(razão) definidas como: |
 |!status | | Exibe status e algumas configurações do bot |
 |!togglemotd | | Alterna a mensagem do dia |
 |!unban | @user | Desbane o usuário |
