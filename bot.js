@@ -238,7 +238,7 @@
     var basicBot = {
         version: "1",
         status: false,
-        name: "Rock Wins bot",
+        name: "Rock Wins Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
         cmdLink: "https://git.io/viPW3",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Rock Wins bot",
+            botName: "Rock Wins Bot",
             language: "portuguese",
             chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
             scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
