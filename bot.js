@@ -1286,10 +1286,9 @@
                 basicBot.room.roomstats.chatmessages++;
             },
             spam: [
-                'hueh', 'hu3', 'brbr', 'heu', 'brbr', 'spoder', 'mafia', 'zuera', 'zueira',
+                'spoder', 'mafia', 'zuera', 'zueira',
                 'zueria', 'aehoo', 'aheu', 'algum', 'zoeira', 'fuckadmins', 'affff', 'vaisefoder', 'huenaarea',
-                'hitler', 'ashua', 'ahsu', 'ashau', 'lulz', 'huehue', 'hue', 'huehuehue', 'merda', 'puta', 'filha', 'ppk',
-                'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka'
+                'hitler', 'ashua', 'puta', 'filha', 'ppk', 'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka'
             ],
             curses: [
                 'nigger', 'faggot', 'nigga', 'niqqa', 'motherfucker'
@@ -1700,7 +1699,7 @@
             },
 
             autowootCommand: {
-                command: 'autowoot',
+                command: ['autowoot','aw'],
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
