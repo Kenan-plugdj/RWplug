@@ -256,7 +256,7 @@
             startupCap: 1, // 1-200
             startupVolume: 75, // 0-100
             startupEmoji: true, // true or false
-            autowoot: true,
+            autowoot: false,
             autoskip: true,
             smartSkip: true,
             cmdDeletion: true,
