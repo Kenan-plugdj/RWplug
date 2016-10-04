@@ -26,7 +26,7 @@ Coordenadores
 |*!historyskip* | | Alterna o pulo de música no histórico |
 |*!kill* | | Desliga o bot |
 |*!lock* | | Trava a lista de espera |
-|*!lockskip* | *(razão)* | Pula, trava e move o Dj de volta para o topo da lista |
+|*!lockskip* | *(razão)* | Pula, trava a lista e move o Dj de volta para o topo da lista |
 |*!locktimer* | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |*!logout* | | Desloga a conta que estiver hospedando o bot |
 |*!maxlength* | X | Especifica a duração máxima permitida das músicas |
@@ -34,6 +34,7 @@ Coordenadores
 |*!reload* | | Reinicia o bot |
 |*!roulette*/ *!roleta* | | Inicia a roleta |
 |*!skippos* | *X* | Define a posição para mover pelo lockskip ao pular um Dj |
+|*!unlock* | | Destrava a lista de espera |
 |*!usercmdcd* | *X* | Define o delay sobre os comandos para usuários cinzas |
 |*!usercommands* | | Alterna os comandos de usuários cinzas |
 
@@ -43,7 +44,6 @@ Segurança+
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!add* | *@user* | Adiciona o usuário à lista de espera |
-|*!autoskip* | | Pula as músicas automaticamente após o término (usado quando circulo-bug aparece) |
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
 |*!deletechat* | *@user* | Deleta todo o chat de um determinado usuário |
 |*!forceskip* | | Força o pulo da música atual |
@@ -51,7 +51,6 @@ Segurança+
 |*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |*!songstats* | | Alterna as estatísticas de músicas  |
-|*!unlock* | | Destrava a lista de espera |
 
 Seguranças
 -------
