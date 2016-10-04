@@ -45,7 +45,7 @@ Segurança+
 |:------:|:---------:|:--------------------------------------:|
 |*!add* | *@user* | Adiciona o usuário à lista de espera |
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
-|*!deletechat* | *@user* | Deleta todo o chat de um determinado usuário |
+|*!deletechat* | *@user* | Deleta todo o chat do usuário |
 |*!forceskip* | | Força o pulo da música atual |
 |*!lockguard* | | Alterna o lockguard |
 |*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
@@ -67,12 +67,12 @@ Seguranças
 |*!eta* | *(@user)* | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
 |*!filter* | | Alterna o filtro do chat |
 |*!jointime* | *@user* | Mostra quanto tempo o usuário está logado na sala  |
-|*!kick* | *(X)* | Chuta o usuário por x minutos, padrão é 0.25 minutos (15 segundos) |
-|*!motd* | *(X)*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando x é especificado, o moensagem é dada a cada x músicas |
-|*!mute* | *@user*/*(X)* | Muta o usuário, por x minutos se x for especificado, caso contrário, por um período indefinido |
+|*!kick* | *(X)* | Chuta o usuário por X minutos, padrão é 0.25 minutos (15 segundos) |
+|*!motd* | *(X)*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando X é especificado, o moensagem é dada a cada x músicas |
+|*!mute* | *@user*/*(X)* | Muta o usuário, por X minutos se X for especificado, caso contrário, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
 |*!sessionstats* | | Exibe estatísticas da sessão atual |
-|*!skip* | *(razão)* | Pula o Dj atual e move para posição 1 na lista se for especificada a razão definidas como: *(theme)*, [música fora do tema da sala.], *(history)*, [música no histórico.], *(mix)*,[mix, desacordo com as regras.], *(sound)*, [música com qualidade de som ruim ou sem som.], *(un)*, [música indisponível.]|
+|*!skip* | *(razão)* | Pula o Dj atual e o move para posição 1 na lista de espera, se for especificada a razão, como: *(theme)*, [música fora do tema da sala.], *(history)*, [música no histórico.], *(mix)*,[mix, desacordo com as regras.], *(sound)*, [música com qualidade de som ruim ou sem som.], *(un)*, [música indisponível.]|
 |*!status* | | Exibe status e algumas configurações do bot |
 |*!togglemotd* | | Alterna a mensagem do dia |
 |*!unban* | *@user* | Desbane o usuário |
@@ -93,7 +93,7 @@ Usuários
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!8ball*/ *!ask* | *(pergunta)* | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
-|*!autowoot* | | Dá links de autowoots conhecidos |
+|*!autowoot*/ !aw | | Dá links de autowoots conhecidos |
 |*!ba* | | Explica a função de um Embaixador |
 |*!commands*/ *!cmds* | | Dá um link para os comandos do bot |
 |*!cookie* | *(@user)* | Dá um biscoito para o usuário |
