@@ -305,7 +305,7 @@
             fbLink: "http://bit.ly/2cxnE6a",
             youtubeLink: null,
             website: null,
-            intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Entre para o nosso grupo no Facebook http://bit.ly/2cxnE6a","Tema: Rock'n'roll, todos os subgêneros do rock.","Veja os comandos do bot digitando !cmds."],
+            intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Entre para o nosso grupo no Facebook http://bit.ly/2cxnE6a","Tema: Rock'n'roll, todos os subgêneros do rock.","Veja os comandos do bot digitando !cmds.","@djs Temos um grupo da sala no Whatsapp, você pode entrar usando o link de convite que está na descrição (acessível clicando no nome da sala) ou no nosso grupo do facebook."],
             messageInterval: 3,
             songstats: false,
             commandLiteral: "!",
