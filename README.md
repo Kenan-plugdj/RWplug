@@ -8,11 +8,11 @@ Como usar
 ------
  Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
 
- Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) em sua comunidade do Plug.
+ Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
 
 Comandos
 ------
-Podem ser encontrados nos [arquivos de comando](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
+Podem ser encontrados nos [arquivos de comandos](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
 
 Desenvolvedor
 ----------
