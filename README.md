@@ -1,6 +1,6 @@
 # Rock Wins Bot
  O Projeto RWplug contendo o chatbot e customização foi elaborado à ser utilizado pelos admins da Comunidade Rock Wins no site do plug.dj
-* Venha apreciar um bom Rock n Roll -> https://plug.dj/rock-wins-10
+* Junte-se à nossa comunidade, aprecie um bom Rock n Roll -> https://plug.dj/rock-wins-10
 
 [![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](http://bit.ly/2cxnE6a)
 
@@ -17,7 +17,7 @@ Podem ser encontrados nos [arquivos de comando](https://github.com/Kenan-plugdj/
 Desenvolvedor
 ----------
  - [Benzi](https://github.com/Benzi) __(Maintainer)__
-Email enquerito: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
+Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
 Modificação
 ----------
@@ -41,11 +41,11 @@ Eu Kenan, gostaria de agradecer em especial:
 |:------:|:---------:|
 |Português|[Motel Bible](https://github.com/motelbible)|
 
-__Eu gostaria de agradecer também todos que contribuiram em traduzir o bot via [centro de tradução](https://basicbot.oneskyapp.com/admin/collaborators)__
+__Eu gostaria de agradecer também todos que contribuiram em traduzir o bot no [centro de tradução](https://basicbot.oneskyapp.com/admin/collaborators)__
 
-### Copyright
+### Direitos Autorais
 
-Copyright &copy; 2014-2016 basicBot
+2014-2016 basicBot
 
 Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
 This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
