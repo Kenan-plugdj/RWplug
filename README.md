@@ -3,8 +3,7 @@
 
 Como usar
 ------
-Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj.
-'javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();'
+Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
 
 Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js e copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) em sua comunidade do Plug.
 
