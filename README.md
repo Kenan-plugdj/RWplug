@@ -14,8 +14,29 @@ Comandos
 ------
 Podem ser encontrados nos [arquivos de comando](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
 
-Desenvolvedores
+Desenvolvedor
 ----------
  - [Benzi](https://github.com/Benzi) __(Maintainer)__
 Email enquerito: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
- - [Kenan](https://github.com/Kenan-plugdj) __(Modificador/ suporte deste projeto)__ 
+
+Modificação
+----------
+ - [Kenan](https://github.com/Kenan-plugdj) __(Modificador deste projeto)__ 
+
+Créditos
+--------
+
+Eu Benzi, gostaria de agradecer as seguintes pessoas:
+
+- Fungus: Seu Tastybot tem sido uma fonte de inspiração para a maioria dos recursos, e sua ajuda com problemas no código tem sido inestimável para realização deste bot.
+
+Eu Kenan, gostaria de agradecer em especial: 
+
+- ShadowSlayer que sempre esteve disponível para responder minhas dúvidas sobre o bot, e que auxiliou com a roleta.
+- SharkDevil que me deu suporte para resolver bugs com a roleta e frases automáticas. 
+
+|Idioma | Tradutor|
+|:------:|:---------:|
+|Português|[Motel Bible](https://github.com/motelbible)|
+
+__Eu gostaria de agradecer também todos que contribuiram em traduzir o bot via [centro de tradução](https://basicbot.oneskyapp.com/admin/collaborators)__
