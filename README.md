@@ -13,3 +13,9 @@ Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/
 Comandos
 ------
 Podem ser encontrados nos [arquivos de comando](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
+
+Desenvolvedores
+----------
+ - [Benzi](https://github.com/Benzi) __(Maintainer)__
+Email enquerito: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
+ - [Kenan](https://github.com/Kenan-plugdj) __(Modificador)__ 
