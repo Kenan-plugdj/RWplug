@@ -18,4 +18,4 @@ Desenvolvedores
 ----------
  - [Benzi](https://github.com/Benzi) __(Maintainer)__
 Email enquerito: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
- - [Kenan](https://github.com/Kenan-plugdj) __(Modificador)__ 
+ - [Kenan](https://github.com/Kenan-plugdj) __(Modificador/ suporte deste projeto)__ 
