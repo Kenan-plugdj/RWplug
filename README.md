@@ -12,11 +12,11 @@ Como usar
 
 Comandos
 ------
-Podem ser encontrados nos [arquivos de comandos](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
+Podem ser encontrados no [arquivo de comandos](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
 
 Desenvolvedor
 ----------
- - [Benzi](https://github.com/Benzi) __(Maintainer)__
+ - [Benzi](https://github.com/Benzi) __(Mantedor)__
 Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
 Modificação
@@ -28,7 +28,7 @@ Créditos
 
 Eu Benzi, gostaria de agradecer as seguintes pessoas:
 
-- Fungus: Seu Tastybot tem sido uma fonte de inspiração para a maioria dos recursos, e sua ajuda com problemas no código tem sido inestimável para realização deste bot.
+- Fungus: Seu Tastybot tem sido uma fonte de inspiração para a maioria dos recursos, e sua ajuda com problemas de codificação tem sido inestimável para realização deste bot.
 - TAT, Origin e outro contribuidores do Litebot: o Litebot deles que inspirou recursos como a roleta.
 - Henchman: Nunca soube que este empreendimento me daria um amigo também.
 
