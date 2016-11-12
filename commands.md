@@ -18,7 +18,6 @@ Coordenadores
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!afkremoval* | | Alterna a verificação AFK |
-|*!autodisable* | | Alterna o autodisable (afkdisable e autojoindisable) |
 |*!bouncer+* | | Alterna o bouncer+ |
 |*!clearchat* | |Limpa todo o chat |
 |*!cycle* | | Alterna o ciclo de Djs |
@@ -68,7 +67,7 @@ Seguranças
 |*!filter* | | Alterna o filtro do chat |
 |*!jointime* | *@user* | Mostra quanto tempo o usuário está logado na sala  |
 |*!kick* | *(X)* | Chuta o usuário por X minutos, padrão é 0.25 minutos (15 segundos) |
-|*!motd* | *(X)*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando X é especificado, o moensagem é dada a cada x músicas |
+|*!motd* | *(X)*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando X é especificado, a mensagem é dada a cada x músicas |
 |*!mute* | *@user*/*(X)* | Muta o usuário, por X minutos se X for especificado, caso contrário, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
 |*!sessionstats* | | Exibe estatísticas da sessão atual |
