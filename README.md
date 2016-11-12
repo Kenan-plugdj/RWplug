@@ -16,14 +16,13 @@ Comandos
 ------
 Podem ser encontrados no [arquivo de comandos](https://github.com/Kenan-plugdj/RWplug/blob/master/commands.md)
 
-Desenvolvedor
+Desenvolvedores
 ----------
  - [Benzi](https://github.com/Benzi) __(Mantedor)__
 Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
-
+ - [Yemasthui](https://github.com/Yemasthui)  __(Criador)__
 Modificação
-----------
- - [Kenan](https://github.com/Kenan-plugdj) __(Modificador deste projeto)__ 
+ - [Kenan](https://github.com/Kenan-plugdj) __(Modificador)__ 
 
 Créditos
 --------
