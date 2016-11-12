@@ -72,7 +72,7 @@ Seguranças
 |*!mute* | *@user*/*(X)* | Muta o usuário, por X minutos se X for especificado, caso contrário, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
 |*!sessionstats* | | Exibe estatísticas da sessão atual |
-|*!skip* | *(razão)* | Pula o Dj atual e o move para posição 1 na lista de espera, se for especificada a razão, como: *(theme)*, [música fora do tema da sala.], *(history)*, [música no histórico.], *(mix)*,[mix, desacordo com as regras.], *(sound)*, [música com qualidade de som ruim ou sem som.], *(un)*, [música indisponível.]|
+|*!skip* | *(razão)* | Pula o Dj atual e o bot move para posição 1 na lista de espera somente se especificar a razão. Definidas no print: http://prntscr.com/d67qfs |
 |*!status* | | Exibe status e algumas configurações do bot |
 |*!togglemotd* | | Alterna a mensagem do dia |
 |*!unban* | *@user* | Desbane o usuário |
