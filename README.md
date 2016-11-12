@@ -1,14 +1,16 @@
 # Rock Wins Bot
- O Projeto RWplug foi elaborado à ser utilizado pelos admins da Comunidade Rock Wins no site do plug.dj
+O Projeto RWplug foi elaborado à ser utilizado pelos admins da Comunidade Rock Wins no site do plug.dj
 * Junte-se à nossa comunidade, aprecie um bom Rock n Roll -> https://plug.dj/rock-wins-10
 
 [![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](http://bit.ly/2cxnE6a)
 
 Como usar
 ------
- Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
+Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
 
- Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
+Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
+
+[Caso você já tenha ativado o bot no seu navegador e vai ativar novamente essa versão, por favor limpe o cache do seu navagador para retirar os dados anteriores e o bot funcionar perfeitamente.] 
 
 Comandos
 ------
