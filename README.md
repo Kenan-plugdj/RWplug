@@ -10,7 +10,8 @@ Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorit
 
 Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
 
-*Importante*: Caso você já tenha ativado o bot no seu navegador e vai ativar novamente essa versão, por favor limpe o cache do seu navagador para retirar os dados anteriores e o bot funcionar com todas as funções. 
+# Importante: 
+Caso você já tenha ativado o bot no seu navegador e vai ativar novamente essa versão, por favor limpe o cache do seu navagador para retirar os dados anteriores e o bot funcionar com todas as funções. 
 
 Comandos
 ------
