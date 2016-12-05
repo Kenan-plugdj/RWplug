@@ -60,7 +60,7 @@ Seguranças
 |*!afkreset* | *@user* | Reseta o tempo AFK do usuário |
 |*!afktime* | *@user* | Mostra quanto tempo o usuário está AFK |
 |*!ban* | *@user* | Bane o usuário por 1 dia |
-|*!blinfo* | | Obtém as informações necessárias para adicionar uma música na blacklist |
+|*!blinfo* | | Obtém as informações necessárias para adicionar uma música à lista negra |
 |*!commanddeletion*/ *!cmddeletion*/ *!cmddel* | | Alterna se os comandos do bot serão excluídos |
 |*!cycleguard* | | Alterna o cycleguard |
 |*!dclookup* / *!dc* | *(@user)* | Dá dclookup no usuário |
