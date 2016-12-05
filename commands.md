@@ -96,7 +96,7 @@ Usuários
 |*!autowoot*/ *!aw* | | Dá links de autowoots conhecidos |
 |*!ba* | | Explica a função de um Embaixador |
 |*!commands*/ *!cmds* | | Dá um link para os comandos do bot |
-|*!cookie* | *(@user)* | Dá um biscoito para o usuário |
+|*!cookie*/ *!biscoito* | *(@user)* | Dá um biscoito para o usuário |
 |*!dclookup* / *!dc* | | Usa o dc em você mesmo caso tenha disconectado |
 |*!emoji* | | Dá um link da lista de emoji's |
 |*!eta* | | Mostra quanto tempo resta até você chegar a cabine de Dj |
