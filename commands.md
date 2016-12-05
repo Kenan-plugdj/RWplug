@@ -31,7 +31,7 @@ Coordenadores
 |*!maxlength* | X | Especifica a duração máxima permitida das músicas |
 |*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |*!refresh* | | Refresca o navegador de quem estiver rodando o bot |
-|*!reload* | | Reinicia o bot |
+|*!reload* | | Recarrega o bot |
 |*!roulette*/ *!roleta* | | Inicia a roleta |
 |*!skippos* | *X* | Define a posição para mover pelo lockskip ao pular um Dj |
 |*!unlock* | | Destrava a lista de espera |
