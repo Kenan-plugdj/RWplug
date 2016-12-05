@@ -29,6 +29,7 @@ Coordenadores
 |*!locktimer* | X | Define o tempo máximo que a lista de espera pode ser travada se Lockguard estiver ativado |
 |*!logout* | | Desloga a conta que estiver hospedando o bot |
 |*!maxlength* | X | Especifica a duração máxima permitida das músicas |
+|*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |*!refresh* | | Refresca o navegador de quem estiver rodando o bot |
 |*!reload* | | Reinicia o bot |
 |*!roulette*/ *!roleta* | | Inicia a roleta |
@@ -42,12 +43,10 @@ Segurança+
 
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|*!add* | *@user* | Adiciona o usuário à lista de espera |
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
 |*!deletechat* | *@user* | Deleta todo o chat do usuário |
 |*!forceskip* | | Força o pulo da música atual |
 |*!lockguard* | | Alterna o lockguard |
-|*!move* | *@user* *(X)* | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |*!songstats* | | Alterna as estatísticas de músicas  |
 
@@ -57,6 +56,7 @@ Seguranças
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!active* | *(X)* | Mostra quantos usuários conversaram nos últimos x minutos. Se x não for especificado, 60 é definido como padrão |
+|*!add* | *@user* | Adiciona o usuário à lista de espera |
 |*!afkreset* | *@user* | Reseta o tempo AFK do usuário |
 |*!afktime* | *@user* | Mostra quanto tempo o usuário está AFK |
 |*!ban* | *@user* | Bane o usuário por 1 dia |
