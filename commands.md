@@ -74,7 +74,7 @@ Seguranças
 |*!mute* | *@user*/ *X* | Muta o usuário, por X minutos (15, 30,45), se não for específicado, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
 |*!sessionstats* | | Exibe estatísticas da sessão atual |
-|*!skip* | *razão* | Pula o Dj atual e o bot move para posição 1 na lista de espera (somente se a razão foi especificada). Definidas no print: http://prntscr.com/d67qfs |
+|*!skip*/ *smartskip* | *razão* | Pula o Dj atual e o bot move para posição 1 na lista de espera (somente se a razão foi especificada). Definidas no print: http://prntscr.com/d67qfs |
 |*!status* | | Exibe status e algumas configurações do bot |
 |*!togglemotd* | | Alterna a mensagem do dia |
 |*!unban* | *@user* | Desbane o usuário |
