@@ -47,7 +47,7 @@ Segurança+
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
 |*!deletechat* | *@user* | Deleta todo o chat do usuário |
 |*!forceskip* | | Força o pulo da música atual |
-|*!kick* | *60* *24*  | Chuta o usuário por X minutos, (60 minutos ou 24 horas), se não for especificado o padrão é 0.25 minutos (15 segundos) |
+|*!kick* | *@user* *X* | Chuta o usuário por X minutos, (60 minutos ou 24 horas), se não for especificado o padrão é 0.25 minutos (15 segundos) |
 |*!lockguard* | | Alterna o lockguard |
 |*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |*!songstats* | | Alterna as estatísticas de músicas  |
