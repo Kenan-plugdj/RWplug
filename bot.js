@@ -1747,7 +1747,7 @@
             },
 
             banCommand: {
-                command: 'ban',
+                command: [ 'ban d', 'ban'],
                 rank: 'bouncer',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
@@ -1763,6 +1763,48 @@
                         var permUser = basicBot.userUtilities.getPermission(user.id);
                         if (permUser >= permFrom) return void(0);
                         API.moderateBanUser(user.id, 1, API.BAN.DAY);
+                    }
+                }
+            },
+
+            banCommand: {
+                command: 'ban h',
+                rank: 'bouncer',
+                type: 'startsWith',
+                functionality: function (chat, cmd) {
+                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+                    else {
+                        var msg = chat.message;
+                        if (msg.length === cmd.length) return API.sendChat(subChat(basicBot.chat.nouserspecified, {name: chat.un}));
+                        var name = msg.substr(cmd.length + 2);
+                        var user = basicBot.userUtilities.lookupUserName(name);
+                        if (typeof user === 'boolean') return API.sendChat(subChat(basicBot.chat.invaliduserspecified, {name: chat.un}));
+                        var permFrom = basicBot.userUtilities.getPermission(chat.uid);
+                        var permUser = basicBot.userUtilities.getPermission(user.id);
+                        if (permUser >= permFrom) return void(0);
+                        API.moderateBanUser(user.id, 1, API.BAN.HOUR);
+                    }
+                }
+            },
+ 
+            banCommand: {
+                command: 'ban p',
+                rank: 'bouncer',
+                type: 'startsWith',
+                functionality: function (chat, cmd) {
+                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+                    else {
+                        var msg = chat.message;
+                        if (msg.length === cmd.length) return API.sendChat(subChat(basicBot.chat.nouserspecified, {name: chat.un}));
+                        var name = msg.substr(cmd.length + 2);
+                        var user = basicBot.userUtilities.lookupUserName(name);
+                        if (typeof user === 'boolean') return API.sendChat(subChat(basicBot.chat.invaliduserspecified, {name: chat.un}));
+                        var permFrom = basicBot.userUtilities.getPermission(chat.uid);
+                        var permUser = basicBot.userUtilities.getPermission(user.id);
+                        if (permUser >= permFrom) return void(0);
+                        API.moderateBanUser(user.id, 1, API.BAN.PERM);
                     }
                 }
             },
@@ -1874,7 +1916,7 @@
             },
 
             clearchatCommand: {
-                command: 'clearchat',
+                command: ['clearchat','limpar'],
                 rank: 'manager',
                 type: 'exact',
                 functionality: function (chat, cmd) {
@@ -1925,7 +1967,7 @@
             },
 
             commandsCommand: {
-                command: ['commands','cmds'],
+                command: ['commands','cmds','comandos'],
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
@@ -2174,7 +2216,7 @@
             },
 
             etaCommand: {
-                command: 'eta',
+                command: ['eta','tempo'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
