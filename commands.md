@@ -67,7 +67,7 @@ Seguranças
 |*!commanddeletion*/ *!cmddeletion*/ *!cmddel* | | Alterna se os comandos do bot serão excluídos |
 |*!cycleguard* | | Alterna o cycleguard |
 |*!dclookup* / *!dc* | *(@user)* | Dá dclookup no usuário |
-|*!eta* | *@user* | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
+|*!eta*/ *!tempo* | *@user* | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
 |*!filter* | | Alterna o filtro do chat |
 |*!jointime* | *@user* | Mostra quanto tempo o usuário está logado na sala  |
 |*!motd* | *X*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando X é especificado, a mensagem é dada a cada x músicas |
