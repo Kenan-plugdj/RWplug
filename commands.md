@@ -18,8 +18,9 @@ Coordenadores
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!afkremoval* | | Alterna a verificação AFK |
+|*!ban p* | *@user* | Bane o usuário permanente |
 |*!bouncer+* | | Alterna o bouncer+ |
-|*!clearchat* | |Limpa todo o chat |
+|*!clearchat* /*!lipar* | |Limpa todo o chat |
 |*!cycle* | | Alterna o ciclo de Djs |
 |*!cycletimer* | *X* | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
 |*!historyskip* | | Alterna o pulo de música no histórico |
@@ -59,7 +60,8 @@ Seguranças
 |*!add* | *@user* | Adiciona o usuário à lista de espera |
 |*!afkreset* | *@user* | Reseta o tempo AFK do usuário |
 |*!afktime* | *@user* | Mostra quanto tempo o usuário está AFK |
-|*!ban* | *@user* | Bane o usuário por 1 dia |
+|*!ban* / *!ban d* | *@user* | Bane o usuário por 1 dia |
+|*!ban h* | *@user* | Bane o usuário por 1 hora |
 |*!blinfo* | | Obtém as informações necessárias para adicionar uma música à lista negra |
 |*!commanddeletion*/ *!cmddeletion*/ *!cmddel* | | Alterna se os comandos do bot serão excluídos |
 |*!cycleguard* | | Alterna o cycleguard |
@@ -95,11 +97,11 @@ Usuários
 |*!8ball*/ *!ask* | *(pergunta)* | Faz ao bot uma pergunta, o bot irá retornar com respostas aleatórias. |
 |*!autowoot*/ *!aw* | | Dá links de autowoots conhecidos |
 |*!ba* | | Explica a função de um Embaixador |
-|*!commands*/ *!cmds* | | Dá um link para os comandos do bot |
+|*!commands*/ *!cmds* / *!comandos* | | Dá link para os comandos do bot |
 |*!cookie*/ *!biscoito* | *(@user)* | Dá um biscoito para o usuário |
 |*!dclookup* / *!dc* | | Usa o dc em você mesmo caso tenha disconectado |
 |*!emoji* | | Dá um link da lista de emoji's |
-|*!eta* | | Mostra quanto tempo resta até você chegar a cabine de Dj |
+|*!eta* / *!tempo* | | Mostra quanto tempo resta até você chegar a cabine de Dj |
 |*!fb* | | Link do grupo da sala no facebook  |
 |*!ghostbuster* | *@user* | Verificar se o usuário virou fantasma |
 |*!gif* | *(tag)* | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
@@ -109,9 +111,9 @@ Usuários
 |*!link* | | Quando usuário é o Dj, dá um link para a música atual |
 |*~~!op~~* | | ~~Link para a lista de músicas mais tocadas~~ |
 |*!ping* | | Pong! |
-|*!regras* | | Dá o link das regras em português |
-|*!rules* | | Gives the link of rules in english |
-|*!theme* | | Dá link do tema da sala |
+|*!regras* | | Dá link das regras em português |
+|*!rules* | | Dá link das regras em inglês |
+|*!theme* / *!tema* | | Dá informação do tema da sala |
 |*~~!thor~~* | | ~~Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor, caso contrário será movido para último na lista.~~ |
 |*~~!website~~* | | ~~Dá link para o website da sala~~ |
 |*~~!youtube~~* | | ~~Dá link do canal no youtube da sala~~ |
