@@ -20,7 +20,7 @@ Coordenadores
 |*!afkremoval* | | Alterna a verificação AFK |
 |*!ban p* | *@user* | Bane o usuário permanente |
 |*!bouncer+* | | Alterna o bouncer+ |
-|*!clearchat* /*!lipar* | |Limpa todo o chat |
+|*!clearchat* /*!limpar* | |Limpa todo o chat |
 |*!cycle* | | Alterna o ciclo de Djs |
 |*!cycletimer* | *X* | Define o tempo máximo de ciclo de DJ quando o cycleguard estiver ativado |
 |*!historyskip* | | Alterna o pulo de música no histórico |
@@ -47,6 +47,7 @@ Segurança+
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
 |*!deletechat* | *@user* | Deleta todo o chat do usuário |
 |*!forceskip* | | Força o pulo da música atual |
+|*!kick* | *60* *24*  | Chuta o usuário por X minutos, (60 minutos ou 24 horas), se não for especificado o padrão é 0.25 minutos (15 segundos) |
 |*!lockguard* | | Alterna o lockguard |
 |*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |*!songstats* | | Alterna as estatísticas de músicas  |
@@ -69,7 +70,6 @@ Seguranças
 |*!eta* | *(@user)* | Mostra quanto tempo falta ao usuário chegar a cabine de Dj  |
 |*!filter* | | Alterna o filtro do chat |
 |*!jointime* | *@user* | Mostra quanto tempo o usuário está logado na sala  |
-|*!kick* | *(X)* | Chuta o usuário por X minutos, padrão é 0.25 minutos (15 segundos) |
 |*!motd* | *(X)*/*(mensagem)* | Quando não há argumento especificado, retorna a Mensagem do Dia, quando X é especificado, a mensagem é dada a cada x músicas |
 |*!mute* | *@user*/*(X)* | Muta o usuário, por X minutos se X for especificado, caso contrário, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
