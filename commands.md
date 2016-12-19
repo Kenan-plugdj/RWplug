@@ -47,7 +47,7 @@ Segurança+
 |*!blacklist* / *!bl* | | Adiciona a música atual para a lista negra |
 |*!deletechat* | *@user* | Deleta todo o chat do usuário |
 |*!forceskip* | | Força o pulo da música atual |
-|*!kick* | *@user* *X* | Chuta o usuário por X minutos, (60 minutos ou 24 horas), se não for especificado o padrão é 0.25 minutos (15 segundos) |
+|*!kick* | *@user* *X* | Chuta o usuário por tempo X, (60 minutos ou 24 horas), se não for especificado o padrão é 0.25 minutos (15 segundos) |
 |*!lockguard* | | Alterna o lockguard |
 |*!restricteta* | | Alterna a restrição do eta: usuários cinzas podem usar somente a cada uma hora |
 |*!songstats* | | Alterna as estatísticas de músicas  |
@@ -74,7 +74,7 @@ Seguranças
 |*!mute* | *@user*/ *X* | Muta o usuário, por X minutos (15, 30,45), se não for específicado, por um período indefinido |
 |*!remove* | *@user* | Remove usuário da lista de espera |
 |*!sessionstats* | | Exibe estatísticas da sessão atual |
-|*!skip*/ *smartskip* | *razão* | Pula o Dj atual e o bot move para posição 1 na lista de espera (somente se a razão foi especificada). Definidas no print: http://prntscr.com/d67qfs |
+|*!skip*/ *!smartskip* | *razão* | Pula o Dj atual e o bot move para posição 1 na lista de espera (somente se a razão foi especificada). Definidas no print: http://prntscr.com/d67qfs |
 |*!status* | | Exibe status e algumas configurações do bot |
 |*!togglemotd* | | Alterna a mensagem do dia |
 |*!unban* | *@user* | Desbane o usuário |
@@ -104,7 +104,7 @@ Usuários
 |*!eta*/ *!tempo* | | Mostra quanto tempo resta até você chegar a cabine de Dj |
 |*!fb* | | Link do grupo da sala no facebook  |
 |*!ghostbuster* | *@user* | Verificar se o usuário virou fantasma |
-|*!gif*/ *giphy* | *tag* | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
+|*!gif*/ *!giphy* | *tag* | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |*~~!help~~* | | ~~Dá link de uma imagem para ajudar o usuário que ingressou no plug~~|
 |*!join* | | Juntar-se na roleta |
 |*!leave* | | Deixar da roleta |
