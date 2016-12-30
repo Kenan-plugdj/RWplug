@@ -18,7 +18,6 @@ Coordenadores
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |*!afkremoval* | | Alterna a verificação AFK |
-|*!ban p* | *@user* | Bane o usuário permanente |
 |*!bouncer+* | | Alterna o bouncer+ |
 |*!clearchat* /*!limpar* | | Limpa todo o chat |
 |*!cycle* | | Alterna o ciclo de Djs |
@@ -61,8 +60,7 @@ Seguranças
 |*!add* | *@user* | Adiciona o usuário à lista de espera |
 |*!afkreset* | *@user* | Reseta o tempo AFK do usuário |
 |*!afktime* | *@user* | Mostra quanto tempo o usuário está AFK |
-|*!ban* / *!ban d* | *@user* | Bane o usuário por 1 dia |
-|*!ban h* | *@user* | Bane o usuário por 1 hora |
+|*!ban* | *@user* | Bane o usuário por 1 dia |
 |*!blinfo* | | Obtém as informações necessárias para adicionar uma música à lista negra |
 |*!commanddeletion*/ *!cmddeletion*/ *!cmddel* | | Alterna se os comandos do bot serão excluídos |
 |*!cycleguard* | | Alterna o cycleguard |
