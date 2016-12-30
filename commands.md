@@ -32,7 +32,7 @@ Coordenadores
 |*!move* | *@user* *X* | Move o usuário para posição X na lista de espera, posição padrão 1 |
 |*!refresh* | | Refresca o navegador de quem estiver rodando o bot |
 |*!reload* | | Recarrega o bot |
-|*!roulette*/ *!roleta* | | Inicia a roleta |
+|*!roulette*/ *!roleta* | | Inicia a roleta (sorteio que move o ganhador para o 1º lugar na lista de espera) |
 |*!skippos* | *X* | Define a posição para mover pelo lockskip ao pular um Dj |
 |*!unlock* | | Destrava a lista de espera |
 |*!usercmdcd* | *X* | Define o delay sobre os comandos para usuários cinzas |
