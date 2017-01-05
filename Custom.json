@@ -14,17 +14,17 @@
       "forceSmartVote": false
    },
    "ccc": {
-      "admin": "#89BE6C",
-      "ambassador": "#84B423",
-      "host": "#7936e8",
-      "cohost": "#7936e8",
-      "manager": "#7936e8",
-      "bouncer": "#7936e8",
-      "rdj": "#7936e8",
+      "admin": null,
+      "ambassador": null,
+      "host": null,
+      "cohost": null,
+      "manager": null,
+      "bouncer": null,
+      "rdj": null,
       "subscriber": null,
       "silversubscriber": null,
-      "friend": "#E26728",
-      "user": "#8B92A3"
+      "friend": null,
+      "user": null"
    },
    "images": {
       "background": null,
