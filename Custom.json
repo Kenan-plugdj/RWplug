@@ -28,7 +28,7 @@
    },
    "images": {
       "background": null,
-      "playback": null,
+      "playback": "https://cdn.radiant.dj/rcs/bg/2k14def.jpg",
       "admin": null,
       "ambassador": null,
       "host": null,
