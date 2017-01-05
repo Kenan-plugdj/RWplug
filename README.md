@@ -12,7 +12,7 @@ Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/
 
 Importante:
 ------
-Caso você já tenha ativado o bot no seu navegador e vai ativar novamente essa versão, por favor limpe o cache do seu navagador para retirar os dados anteriores e o bot funcionar com todas as funções. 
+Caso o bot tenha sido atualizado e você já estava com o bot ativado no seu navegador você deve limpar o cache do seu navagador para retirar os dados anteriores e o bot funcionar com todas as funções. 
 
 Comandos
 ------
