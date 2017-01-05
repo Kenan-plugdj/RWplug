@@ -1,8 +1,8 @@
 {
    "room": "Rock Wins",
    "author": "Kenan",
-   "icon": null,
-   "css": "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
+   "icon": "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
+   "css": null,
    "rules": {
       "allowAutorespond": true,
       "allowAutowoot": true,
