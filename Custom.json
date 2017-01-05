@@ -2,7 +2,7 @@
    "room": "Rock Wins",
    "author": "Kenan",
    "icon": null,
-   "css": "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
+   "css": "https://rawgit.com/Kenan-plugdj/Test/master/rw.css",
    "rules": {
       "allowAutorespond": true,
       "allowAutowoot": true,
@@ -24,8 +24,8 @@
       "subscriber": null,
       "silversubscriber": null,
       "friend": null,
-      "user": null"
-    },
+      "user": null
+   },
    "images": {
       "background": null,
       "playback": null,
@@ -39,6 +39,7 @@
       "subscriber": null,
       "silversubscriber": null
    },
+   
 
 "emotes": {
 	".v.": "https://i.imgur.com/C79uctl.gif",
