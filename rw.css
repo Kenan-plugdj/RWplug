@@ -380,6 +380,7 @@ border-radius: 10px !important; }
 }
 
 
+
 #info_dialog > .dialog-frame .button.submit { background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%);
 box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 .media-list .row.now-playing { border-bottom: #FC2457 2px solid !important; }
