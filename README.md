@@ -1,6 +1,6 @@
 # Rock Wins Bot
-O Projeto RWplug foi elaborado à ser utilizado pelos admins da Comunidade Rock Wins no site do plug.dj
-* Junte-se à nossa comunidade, aprecie um bom Rock n Roll -> https://plug.dj/rock-wins-10
+O Projeto RWplug foi elaborado à ser utilizado na Sala Rock Wins no site do plug.dj
+* Visite a nossa comunidade, aprecie um bom Rock n Roll -> https://plug.dj/rock-wins-10
 
 [![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](http://bit.ly/2cxnE6a)
 
