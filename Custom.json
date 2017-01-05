@@ -30,14 +30,14 @@
       "background": null,
       "playback": null,
       "admin": null,
-      "ambassador": "http://i.imgur.com/F66xPlT.png",
-      "host": "http://i.imgur.com/JknUfCq.png",
-      "cohost": "http://i.imgur.com/V5LMEIy.png",
-      "manager": "http://i.imgur.com/grZxrGa.png",
-      "bouncer": "http://i.imgur.com/1UK3Z1l.png",
-      "rdj": "http://i.imgur.com/KW4CrVm.png",
+      "ambassador": null,
+      "host": null,
+      "cohost": null,
+      "manager": null,
+      "bouncer": null,
+      "rdj": null,
       "subscriber": null,
-      "silversubscriber": "http://i.imgur.com/d1lU2uQ.png"
+      "silversubscriber": null
    },
    
 
