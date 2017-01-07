@@ -37,10 +37,6 @@ Eu Benzi, gostaria de agradecer as seguintes pessoas:
 - TAT, Origin e outro contribuidores do Litebot: o Litebot deles que inspirou recursos como a roleta.
 - Henchman: Nunca soube que este empreendimento me daria um amigo também.
 
-Eu Kenan, gostaria de agradecer em especial: 
-
-- ShadowSlayer que sempre esteve disponível para responder minhas dúvidas sobre o bot, e que auxiliou com a roleta.
-- SharkDevil que me deu suporte para resolver bugs com a roleta e frases automáticas. 
 
 |Idioma | Tradutor|
 |:------:|:---------:|
