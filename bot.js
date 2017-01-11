@@ -254,7 +254,7 @@
             scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
-            startupVolume: 75, // 0-100
+            startupVolume: 100, // 0-100
             startupEmoji: true, // true or false
             autowoot: false,
             autoskip: true,
