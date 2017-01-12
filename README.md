@@ -26,12 +26,10 @@ Email : [hi [at] benzi [dot] io](mailto:hi@benzi.io)
  - [Yemasthui](https://github.com/Yemasthui)  __(Criador)__
  
  - [Kenan](https://github.com/Kenan-plugdj) __(Modificador)__ 
-Perfil PlugDj : https://plug.dj/@/kenan
+[Perfil PlugDj](https://plug.dj/@/kenan)__
 
 Créditos
 --------
-
-Eu Benzi, gostaria de agradecer as seguintes pessoas:
 
 - Fungus: Seu Tastybot tem sido uma fonte de inspiração para a maioria dos recursos, e sua ajuda com problemas de codificação tem sido inestimável para realização deste bot.
 - TAT, Origin e outro contribuidores do Litebot: o Litebot deles que inspirou recursos como a roleta.
