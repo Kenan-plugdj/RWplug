@@ -8,11 +8,11 @@ Como usar
 ------
 Favorite o seguinte código no seu navegador. Para rodar o bot clique no favorito na aba do Plug Dj. `javascript:(function(){$.getScript('https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js');})();` 
 
-Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
 
 Importante:
 ------
-Caso o bot tenha sido atualizado e você já estava com o bot ativado no seu navegador você deve limpar o cache do seu navagador para retirar os dados anteriores e o bot funcionar com todas as funções. 
+Se isso não funcionar, vá para https://raw.githubusercontent.com/Kenan-plugdj/RWplug/master/bot.js copie e cole todo o conteúdo no seu console (acessível no chrome pressionando F12) na sala do Plug Dj.
+
 
 Comandos
 ------
@@ -42,9 +42,14 @@ Créditos
 
 __Eu gostaria de agradecer também todos que contribuiram em traduzir o bot no [centro de tradução](https://basicbot.oneskyapp.com/admin/collaborators)__
 
+
+###Direitos 
+Kenan o modificador do bot, customização para editar não esqueça de dar os créditos...
+
+
 ### Copyright
 
-Copyright &copy; 2014-2016 basicBot
+Copyright &copy; 2014-2017 basicBot
 
 Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
 This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
